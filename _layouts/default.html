@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-GB">
+<!-- This page was last updated on {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}Z -->
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+    {% if page.hasRandomBtn == true %}
+      <script src="/assets/js/randomSite.js"></script>
+    {% endif %}
+</head>
+
+<body>
+    <a name="top"></a>
+
+    <header>
+        {% include navigation.html %}
+        <h1>The Darktheme Club</h1>
+    </header>
+
+    <main>
+
+        {{ content }}
+
+    </main>
+
+    <footer>
+
+        <p>The Darktheme Club was created by <a href="https://garrit.xyz">Garrit Franke</a> and was inspired by <a
+                href="https://kevq.uk">Kev Quirk's</a> <a htop="https://512kb.club">512kb Club</a>.</p>
+
+        <p>Maintained with &hearts; by <a target="blank" href="https://garrit.xyz/">Garrit Franke</a>
+            for an accessible world wide web.</p>
+
+        <a href="#top">^ TOP ^</a>
+
+    </footer>
+
+</body>
+
+</html>

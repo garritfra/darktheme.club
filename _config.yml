@@ -1,0 +1,21 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO Stuff
+author: Garrit Franke
+title: Darktheme Club
+tagline: A showcase of dark themed websites.
+description: The Darktheme Club is an exclusive list of web pages that offer a dark theme.
+lang: en
+locale: en_GB
+url: "https://darktheme.club"
+baseurl: ""
+permalink: :title
+timezone: Etc/UTC
+
+# Syntax Highlighting
+highlighter: rouge
+
+exclude:
+  - scripts/
