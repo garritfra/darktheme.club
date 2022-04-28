@@ -11,7 +11,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 1. It must be an actual site that contains a reasonable amount of information, not just a couple of links on a page ([more info here](https://512kb.club/#lightweight-notice)).
 2. Your total UNCOMPRESSED web resources must not exceed 512KB.
 
-## How to create a PR to add your site to the 512KB Club
+## How to create a PR to add your site to the Darktheme Club
 
 1. Fork this repository.
 2. Get the **UNCOMPRESSED** size of your website's homepage.

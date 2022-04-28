@@ -14,6 +14,7 @@
     --accent: #e6e6e6;
     --gh-hover: #D3D3D3;
     --before-blue: #64B5F6;
+    --site: #444;
     --after-blue: #BBDEFB;
     --before-orange: #FBC02D;
     --after-orange: #FFF176;
@@ -244,9 +245,9 @@ ul.orange li span.before {
 }
 
 /* GREEN COLOURS */
-ul.green li {
-    background: var(--after-green);
-    color: #212121;
+ul.sites li {
+    background: var(--site);
+    color: var(--text);
     line-height: 1;
     margin: 0 0 0.5rem 0;
     padding: 15px 10px 12px;
@@ -254,8 +255,8 @@ ul.green li {
     border-radius: 4px;
 }
 
-ul.green li span.before {
-    background: var(--before-green);
+ul.sites li span.before {
+    background: var(--site);
     height: 100%;
     width: calc(var(--data-size)/512 * 100%);
     border-radius: 4px;

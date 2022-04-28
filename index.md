@@ -27,38 +27,9 @@ But we can make a difference - all it takes is some optimisation. Do you really 
   <a class="button random" href="#100" onclick="randomSite(); return false;">Visit a Random Site</a>
 </div>
 
-{:.jump}
-* **Jump to:**
-* [Green Team (&lt;100KB)](#100)
-* [Orange Team (&lt;250KB)](#250)
-* [Blue Team (&lt;512KB)](#512)
-
-<h2 id="100">The Green Team (&lt;100KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
-<ul class="green">
-    {%- assign site_domains = site.data.sites | sort: 'size' -%}
+<ul class="sites">
+    {%- assign site_domains = site.data.sites -%}
     {%- for item in site_domains -%}
-        {%- if item.size >= 0 and item.size <= 100 -%}
-            {% include teams.html %}
-        {%- endif -%}
-    {%- endfor -%}
-</ul>
-
-<h2 id="250">The Orange Team (&lt;250KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
-<ul class="orange">
-    {%- assign site_domains = site.data.sites | sort: 'size' -%}
-    {%- for item in site_domains -%}
-        {%- if item.size > 100 and item.size <= 250 -%}
-            {% include teams.html %}
-        {%- endif -%}
-    {%- endfor -%}
-</ul>
-
-<h2 id="512">The Blue Team (&lt;512KB) <span class="small"><a href="#top">^ Top ^</a></span></h2>
-<ul class="blue">
-    {%- assign site_domains = site.data.sites | sort: 'size' -%}
-    {%- for item in site_domains -%}
-        {%- if item.size > 250 and item.size <= 512 -%}
-            {% include teams.html %}
-        {%- endif -%}
+        {% include sites.html %}
     {%- endfor -%}
 </ul>
