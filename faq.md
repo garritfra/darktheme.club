@@ -15,5 +15,3 @@ This page is intended to answer any questions you may have about joining or main
 {% include faq-03.html %}
 
 {% include faq-04.html %}
-
-{% include faq-05.html %}
