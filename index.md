@@ -3,16 +3,20 @@ permalink: /
 layout: default
 hasRandomBtn: true
 ---
-The internet has become a <b>bloated mess</b>. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
-When popular website like [The New York Times](https://www.nytimes.com/) are **[over 15MB in size](https://gtmetrix.com/reports/www.nytimes.com/Dz1IEZl0/)** (nearly 50% of which is JavaScript!), you know there's a problem. Why does any site need to be that huge? It's crazy.
+You're laying in bed, late at night, browsing your favorite newsboard on your
+phone. A headline strikes your attention. Without hesitation, you click the
+link, and suddenly: **BOOM**! You see nothing but blinding brightness. Your head
+starts to hurt. Your eyes just want to crawl into your skull.
 
-But we can make a difference - all it takes is some optimisation. Do you really need that extra piece of JavaScript? Does your WordPress site need a theme that adds lots of functionality you're never going to use? Are those huge custom fonts really needed? Are your images optimised for the web?
+I'm sure you've had this happen before. But in todays day and age, we shouldn't
+have to fear clicking links.
 
-**The 512KB Club** is a collection of performance-focused web pages from across the Internet. To qualify your website must satisfy **both** of the following requirements:
-
-1. It must be an actual site that contains a reasonable amount of information, not just a couple of links on a page ([more info here](/faq/#lightweight-notice)).
-2. Your total UNCOMPRESSED web resources must not exceed 512KB.
+**The Darktheme Club** is a collection of web pages from across the Internet. To
+qualify, your website must either use a dark theme by default, or respect the
+preference of the user, preferably through the
+[prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+media query.
 
 <br>
 <div class="centre">
