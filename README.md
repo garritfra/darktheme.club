@@ -1,24 +1,23 @@
 # Darktheme Club
 
-The internet has become a **bloated mess**. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
+You're laying in bed, late at night, browsing your favorite newsboard on your
+phone. A headline strikes your attention. Without hesitation, you click the
+link, and suddenly: **BOOM**! You see nothing but blinding brightness. Your head
+starts to hurt. Your eyes just want to crawl into your skull.
 
-When online newspapers like [The Guardian](https://www.theguardian.com/uk) are **over 4MB in size**, you know there's a problem. Why does an online newspaper need to be over 4MB in size? It's crazy.
-
-But we can make a difference - all it takes is some optimisation. Do you really need that extra piece of JavaScript? Does your WordPress site need a theme that adds lots of functionality you're never going to use? Are those huge custom fonts really needed? Are your images optimised for the web?
-
-**The 512KB Club** is a collection of performance-focused web pages from across the Internet. To qualify your website must satisfy **both** of the following requirements:
-
-1. It must be an actual site that contains a reasonable amount of information, not just a couple of links on a page ([more info here](https://512kb.club/#lightweight-notice)).
-2. Your total UNCOMPRESSED web resources must not exceed 512KB.
+**The Darktheme Club** is a collection of web pages from across the Internet. To
+qualify, your website must either offer a dark theme by default, or respect the
+preference of the user, preferably through the
+[prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+media query.
 
 ## How to create a PR to add your site to the Darktheme Club
 
+It's simple!
+
 1. Fork this repository.
-2. Get the **UNCOMPRESSED** size of your website's homepage.
-    1. Do a <a target="blank" href="https://gtmetrix.com">GTMetrix scan</a> on your website.
-    2. Once complete, click on the **Waterfall** tab to make sure the **uncompressed** size of your site is less than 512KB.
-3. Navigate to [`_data/sites.yml`](./_data/sites.yml) and add your site (template below).
-4.  **When creating the PR, please include a link to the GT Metrix results in the PR comment.**
+2. Navigate to [`_data/sites.yml`](./_data/sites.yml) and add your site (template below).
+3. Open a pull request and fill out the following template.
 
 ### Site template
 
@@ -26,19 +25,17 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 ```
 - domain: example.com
   url: http://example.com/ (Make sure you keep the trailing slash)
-  size: 2.5
-  last_checked: 2021-05-26 (YYYY-MM-DD)
+  method: css (Choose one of "mediaquery", "javascript", "darkonly", "unknown")
+  last_checked: 2022-06-02 (YYYY-MM-DD)
 ```
 #### Blank
 ```
 - domain:
   url:
-  size:
+  method:
   last_checked:
 ```
 
-**NOTE:** Site need to be added to the list in **alphabetical order**, so please make sure your site is in the correct place within the list, or your PR will be rejected.
-
-## Automation of site size check
-
-You can find [instructions](scripts/docs_site_size_rechecker.md) on how to get the GTmetrix size using a script in the [scripts](scripts/) folder
+**NOTE:** Sites need to be added to the list in **alphabetical order**, so
+please make sure your site is in the correct place within the list, or your PR
+will be rejected.

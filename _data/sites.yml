@@ -1,11 +1,19 @@
 - domain: 512kb.club
   url: https://512kb.club/
+  method: mediaquery
   last_checked: 2022-04-16
 
 - domain: garrit.xyz
   url: https://garrit.xyz/
+  method: mediaquery
   last_checked: 2022-04-16
+
+- domain: seeking-maintainers.net
+  url: https://seeking-maintainers.net/
+  method: mediaquery
+  last_checked: 2022-05-04
 
 - domain: slashdev.space
   url: https://slashdev.space/
+  method: mediaquery
   last_checked: 2022-04-16

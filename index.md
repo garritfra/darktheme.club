@@ -9,9 +9,6 @@ phone. A headline strikes your attention. Without hesitation, you click the
 link, and suddenly: **BOOM**! You see nothing but blinding brightness. Your head
 starts to hurt. Your eyes just want to crawl into your skull.
 
-I'm sure you've had this happen before. But in todays day and age, we shouldn't
-have to fear clicking links.
-
 **The Darktheme Club** is a collection of web pages from across the Internet. To
 qualify, your website must either use a dark theme by default, or respect the
 preference of the user, preferably through the
