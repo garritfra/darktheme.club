@@ -38,6 +38,11 @@
   method: mediaquery
   last_checked: 2022-07-16
 
+- domain: revuo-xmr.com
+  url: https://revuo-xmr.com/
+  method: javascript
+  last_checked: 2022-07-16
+
 - domain: seeking-maintainers.net
   url: https://seeking-maintainers.net/
   method: mediaquery
