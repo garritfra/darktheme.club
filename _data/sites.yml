@@ -12,6 +12,11 @@
   url: https://garrit.xyz/
   method: mediaquery
   last_checked: 2022-04-16
+  
+- domain: github.com
+  url: https://github.com/
+  method: mediaquery
+  last_checked: 2022-07-16
 
 - domain: seeking-maintainers.net
   url: https://seeking-maintainers.net/
