@@ -19,3 +19,5 @@ highlighter: rouge
 
 exclude:
   - scripts/
+
+theme: jekyll-theme-cayman
