@@ -23,6 +23,11 @@
   method: mediaquery
   last_checked: 2022-07-16
   
+- domain: nebula.app
+  url: https://nebula.app/
+  method: javascript
+  last_checked: 2022-07-16
+  
 - domain: phishwarn.codeberg.page
   url: https://phishwarn.codeberg.page/
   method: mediaquery
