@@ -1,0 +1,40 @@
+<!--
+**Important:** Please read all instructions carefully.
+
+_Select the appropriate category for what this PR is about_
+-->
+
+This PR is:
+
+- [ ] Adding a new domain
+- [ ] Updating existing domain
+- [ ] Changing domain name
+- [ ] Removing existing domain from list
+- [ ] Website code changes (darktheme.club site)
+- [ ] Other not listed
+
+<!--
+*Do not tick a checkbox if you haven't performed its action.* Honesty is indispensable for a smooth review process.
+-->
+
+- [ ] The domain is in the correct alphabetical order
+- [ ] The following information is filled identical to the data file
+
+***I confirm that I have read the [FAQ section](https://darktheme.club/faq), particularly the two red items around minimal pages and inappropriate content and I attest that this site is neither of these things.***
+
+- [ ] Check to confirm
+
+<!-- Sample
+```
+- domain: example.com
+  url: http://example.com/ (Make sure you keep the trailing slash)
+  method: mediaquery (Choose one of "mediaquery", "javascript", "darkonly", "unknown")
+  last_checked: 2022-06-02 (YYYY-MM-DD)
+```
+-->
+```
+- domain:
+  url:
+  method:
+  last_checked:
+```

@@ -25,7 +25,7 @@ It's simple!
 ```
 - domain: example.com
   url: http://example.com/ (Make sure you keep the trailing slash)
-  method: css (Choose one of "mediaquery", "javascript", "darkonly", "unknown")
+  method: mediaquery (Choose one of "mediaquery", "javascript", "darkonly", "unknown")
   last_checked: 2022-06-02 (YYYY-MM-DD)
 ```
 #### Blank
