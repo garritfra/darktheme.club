@@ -14,7 +14,7 @@
     --accent: #e6e6e6;
     --gh-hover: #D3D3D3;
     --before-blue: #64B5F6;
-    --site: #444;
+    --site: #D0D0D0;
     --after-blue: #BBDEFB;
     --before-orange: #FBC02D;
     --after-orange: #FFF176;
@@ -36,6 +36,7 @@
         --code: #F06292;
         --notice-red-bg: #951818;
         --notice-red-border: #EFD3CF;
+        --site: #444;
     }
 
     ul li {
