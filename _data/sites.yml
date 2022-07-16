@@ -27,3 +27,9 @@
   url: https://slashdev.space/
   method: mediaquery
   last_checked: 2022-04-16
+
+- domain: phishwarn.codeberg.page
+  url: https://phishwarn.codeberg.page/
+  method: mediaquery
+  last_checked: 2022-07-16
+  
