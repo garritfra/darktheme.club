@@ -17,6 +17,11 @@
   url: https://github.com/
   method: mediaquery
   last_checked: 2022-07-16
+  
+- domain: jlelse.blog
+  url: https://jlelse.blog/
+  method: mediaquery
+  last_checked: 2022-07-16
 
 - domain: seeking-maintainers.net
   url: https://seeking-maintainers.net/
