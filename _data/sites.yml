@@ -8,6 +8,11 @@
   method: unknown
   last_checked: 2022-07-16
 
+- domain: evanhahn.com
+  url: https://evanhahn.com/
+  method: mediaquery
+  last_checked: 2022-07-16
+
 - domain: garrit.xyz
   url: https://garrit.xyz/
   method: mediaquery
