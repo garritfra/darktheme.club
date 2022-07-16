@@ -1,9 +1,9 @@
 # Darktheme Club
 
-You're laying in bed, late at night, browsing your favorite newsboard on your
-phone. A headline strikes your attention. Without hesitation, you click the
-link, and suddenly: **BOOM**! You see nothing but blinding brightness. Your head
-starts to hurt. Your eyes just want to crawl into your skull.
+With the internet being ever present and screens surrounding us all the time,
+personal preference is becoming more and more critical for a good user
+experience. Particularly when it comes to dark mode in order not to burn out
+the readers sight at night.
 
 **The Darktheme Club** is a collection of web pages from across the Internet. To
 qualify, your website must either offer a dark theme by default, or respect the
