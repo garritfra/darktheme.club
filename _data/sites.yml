@@ -47,6 +47,11 @@
   url: https://jlelse.blog/
   method: mediaquery
   last_checked: 2022-07-16
+
+- domain: lkhrs.com
+  url: https://www.lkhrs.com/
+  method: mediaquery
+  last_checked: 2022-07-17
   
 - domain: phishwarn.codeberg.page
   url: https://phishwarn.codeberg.page/
