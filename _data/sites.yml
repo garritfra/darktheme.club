@@ -27,6 +27,11 @@
   url: https://github.com/
   method: mediaquery
   last_checked: 2022-07-16
+
+- domain: inherently.xyz
+  url: https://inherently.xyz/
+  method: mediaquery
+  last_checked: 2022-07-17
   
 - domain: jlelse.blog
   url: https://jlelse.blog/
