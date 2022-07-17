@@ -1,3 +1,17 @@
+{% capture methods %}{{ item.method }}{% endcapture %}
+
+{% if methods == 'mediaquery' %}
+  {% assign method = "MediaQuery" %}
+{% elsif methods == 'javascript' %}
+  {% assign method = "JavaScript" %}
+{% elsif methods == 'darkonly' %}
+  {% assign method = "DarkOnly" %}
+{% elsif methods == 'opt-in' %}
+  {% assign method = "OptIn" %}
+{% else %}
+  {% assign method = "Unknown" %}
+{% endif %}
 <li>
     <a class="site" target="blank" href="{{ item.url }}">{{ item.domain }}</a>
+    <span class="method">{{ method }}</span>
 </li>
