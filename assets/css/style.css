@@ -166,6 +166,12 @@ a.site:focus {
     text-decoration: underline;
 }
 
+span.method {
+    font-size: .85em;
+    align-self: center;
+    opacity: 0.75;
+}
+
 .button {
   background: var(--link);
   color: var(--bg) !important;
@@ -247,6 +253,9 @@ ul.orange li span.before {
 
 /* GREEN COLOURS */
 ul.sites li {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
     background: var(--site);
     color: var(--text);
     line-height: 1;

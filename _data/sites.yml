@@ -3,11 +3,21 @@
   method: mediaquery
   last_checked: 2022-04-16
   
+- domain: bfoliver.com
+  url: https://www.bfoliver.com
+  method: mediaquery
+  last_checked: 2022-04-16
+  
 - domain: duckduckgo.com
   url: https://duckduckgo.com/
   method: unknown
   last_checked: 2022-07-16
 
+- domain: evanhahn.com
+  url: https://evanhahn.com/
+  method: mediaquery
+  last_checked: 2022-07-16
+  
 - domain: feedmail.org
   url: https://feedmail.org
   method: mediaquery
@@ -22,7 +32,17 @@
   url: https://github.com/
   method: mediaquery
   last_checked: 2022-07-16
-  
+
+- domain: hugo.md
+  url: https://hugo.md/
+  method: mediaquery
+  last_checked: 2022-07-17
+
+- domain: inherently.xyz
+  url: https://inherently.xyz/
+  method: mediaquery
+  last_checked: 2022-07-17
+
 - domain: jlelse.blog
   url: https://jlelse.blog/
   method: mediaquery
@@ -31,6 +51,11 @@
 - domain: phishwarn.codeberg.page
   url: https://phishwarn.codeberg.page/
   method: mediaquery
+  last_checked: 2022-07-16
+
+- domain: revuo-xmr.com
+  url: https://revuo-xmr.com/
+  method: javascript
   last_checked: 2022-07-16
 
 - domain: seeking-maintainers.net
@@ -42,3 +67,8 @@
   url: https://slashdev.space/
   method: mediaquery
   last_checked: 2022-04-16
+
+- domain: taylantatli.com
+  url: https://taylantatli.com/
+  method: mediaquery
+  last_checked: 2022-07-17
