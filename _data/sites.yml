@@ -32,7 +32,12 @@
   url: https://hugo.md/
   method: mediaquery
   last_checked: 2022-07-17
-  
+
+- domain: inherently.xyz
+  url: https://inherently.xyz/
+  method: mediaquery
+  last_checked: 2022-07-17
+
 - domain: jlelse.blog
   url: https://jlelse.blog/
   method: mediaquery
