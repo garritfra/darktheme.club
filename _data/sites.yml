@@ -68,6 +68,11 @@
   method: mediaquery
   last_checked: 2022-05-04
 
+- domain: seirdy.one
+  url: https://seirdy.one/
+  method: mediaquery
+  last_checked: 2022-07-18
+
 - domain: slashdev.space
   url: https://slashdev.space/
   method: mediaquery
