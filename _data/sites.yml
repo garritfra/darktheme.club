@@ -8,6 +8,11 @@
   method: mediaquery
   last_checked: 2022-04-16
   
+- domain: bubble.email
+  url: https://bubble.email
+  method: darkonly
+  last_checked: 2022-07-17
+  
 - domain: duckduckgo.com
   url: https://duckduckgo.com/
   method: unknown
