@@ -3,6 +3,11 @@
   method: mediaquery
   last_checked: 2022-04-16
   
+- domain: bernsteinbear.com
+  url: https://bernsteinbear.com
+  method: mediaquery
+  last_checked: 2022-07-18
+  
 - domain: bfoliver.com
   url: https://www.bfoliver.com
   method: mediaquery
