@@ -63,6 +63,11 @@
   method: mediaquery
   last_checked: 2022-07-16
 
+- domain: pragmaticpineapple.com
+  url: https://pragmaticpineapple.com/
+  method: mediaquery
+  last_checked: 2022-07-18
+
 - domain: revuo-xmr.com
   url: https://revuo-xmr.com/
   method: javascript
@@ -92,8 +97,3 @@
   url: https://thomas.me/
   method: mediaquery
   last_checked: 2022-07-17
-  
-- domain: pragmaticpineapple.com
-  url: https://pragmaticpineapple.com/
-  method: mediaquery
-  last_checked: 2022-07-18 (YYYY-MM-DD)
