@@ -3,6 +3,11 @@
   method: mediaquery
   last_checked: 2022-04-16
   
+- domain: aitrack.work
+  url: https://aitrack.work/
+  method: javascript
+  last_checked: 2022-07-19
+
 - domain: bernsteinbear.com
   url: https://bernsteinbear.com/
   method: mediaquery
