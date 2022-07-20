@@ -23,6 +23,11 @@
   method: darkonly
   last_checked: 2022-07-17
   
+- domain: codeberg.org
+  url: https://codeberg.org/
+  method: mediaquery
+  last_checked: 2022-07-21
+  
 - domain: duckduckgo.com
   url: https://duckduckgo.com/
   method: unknown
