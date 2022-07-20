@@ -38,6 +38,11 @@
   method: mediaquery
   last_checked: 2022-07-16
 
+- domain: forgefed.org
+  url: https://forgefed.org
+  method: mediaquery
+  last_checked: 2022-07-21
+
 - domain: garrit.xyz
   url: https://garrit.xyz/
   method: mediaquery
