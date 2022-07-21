@@ -108,6 +108,11 @@
   method: mediaquery
   last_checked: 2022-04-16
 
+- domain: tauri.app
+  url: https://tauri.app/
+  method: javascript
+  last_checked: 2022-07-21
+
 - domain: taylantatli.com
   url: https://taylantatli.com/
   method: mediaquery
