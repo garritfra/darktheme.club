@@ -32,6 +32,11 @@
   url: https://duckduckgo.com/
   method: unknown
   last_checked: 2022-07-16
+  
+- domain: emanuelpina.pt
+  url: https://emanuelpina.pt/
+  method: mediaquery
+  last_checked: 2022-07-24
 
 - domain: evanhahn.com
   url: https://evanhahn.com/
