@@ -28,6 +28,11 @@
   method: mediaquery
   last_checked: 2022-07-21
   
+- domain: darktheme.club
+  url: https://darktheme.club/
+  method: mediaquery
+  last_checked: 2022-07-25
+  
 - domain: duckduckgo.com
   url: https://duckduckgo.com/
   method: unknown
