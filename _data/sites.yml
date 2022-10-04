@@ -97,6 +97,11 @@
   url: https://pragmaticpineapple.com/
   method: mediaquery
   last_checked: 2022-07-18
+  
+- domain: radiocanadamini.ca
+  url: https://radiocanadamini.ca/
+  method: mediaquery
+  last_checked: 2022-10-03
 
 - domain: revuo-xmr.com
   url: https://revuo-xmr.com/
