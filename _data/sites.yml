@@ -123,6 +123,11 @@
   method: mediaquery
   last_checked: 2022-07-24
 
+- domain: rohandebsarkar.github.io
+  url: https://rohandebsarkar.github.io/
+  method: mediaquery
+  last_checked: 2022-10-30
+
 - domain: seeking-maintainers.net
   url: https://seeking-maintainers.net/
   method: mediaquery
