@@ -68,6 +68,11 @@
   method: mediaquery
   last_checked: 2022-07-16
 
+- domain: home.omg.lol
+  url: https://home.omg.lol
+  method: mediaquery
+  last_checked: 2022-10-26
+
 - domain: hugo.md
   url: https://hugo.md/
   method: mediaquery
@@ -152,8 +157,3 @@
   url: https://watch3r.app/
   method: darkonly
   last_checked: 2022-07-20
-  
-  - domain: home.omg.lol
-  url: https://home.omg.lol
-  method: mediaquery
-  last_checked: 2022-10-26
