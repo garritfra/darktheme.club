@@ -27,6 +27,11 @@
   url: https://bubble.email
   method: darkonly
   last_checked: 2022-07-17
+
+- domain: castorisdead.xyz
+  url: https://castorisdead.xyz
+  method: darkonly
+  last_checked: 2022-21-12
   
 - domain: codeberg.org
   url: https://codeberg.org/
