@@ -177,3 +177,8 @@
   url: https://watch3r.app/
   method: darkonly
   last_checked: 2022-07-20
+
+- domain: whoisyoges.eu.org
+  url: https://whoisyoges.eu.org/
+  method: darkonly
+  last_checked: 2022-12-12
