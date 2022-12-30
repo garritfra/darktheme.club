@@ -68,6 +68,11 @@
   method: mediaquery
   last_checked: 2022-07-16
 
+- domain: foreverliketh.is
+  url: https://foreverliketh.is/
+  method: javascript
+  last_checked: 2022-12-30
+
 - domain: forgefed.org
   url: https://forgefed.org
   method: mediaquery
