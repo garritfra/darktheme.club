@@ -2,12 +2,17 @@
   url: https://512kb.club/
   method: mediaquery
   last_checked: 2022-04-16
-  
+
 - domain: 5am.is
   url: https://5am.is/
   method: mediaquery
   last_checked: 2022-11-26
-  
+
+- domain: adamsdesk.com
+  url: https://www.adamsdesk.com/
+  method: darkonly
+  last_checked: 2022-01-02
+
 - domain: aitrack.work
   url: https://aitrack.work/
   method: javascript
@@ -17,12 +22,12 @@
   url: https://bernsteinbear.com/
   method: mediaquery
   last_checked: 2022-07-18
-  
+
 - domain: bfoliver.com
   url: https://www.bfoliver.com
   method: mediaquery
   last_checked: 2022-04-16
-  
+
 - domain: bubble.email
   url: https://bubble.email
   method: darkonly
@@ -37,22 +42,22 @@
   url: https://cleberg.net/
   method: darkonly
   last_checked: 2022-12-17
-  
+
 - domain: codeberg.org
   url: https://codeberg.org/
   method: mediaquery
   last_checked: 2022-07-21
-  
+
 - domain: darktheme.club
   url: https://darktheme.club/
   method: mediaquery
   last_checked: 2022-07-25
-  
+
 - domain: duckduckgo.com
   url: https://duckduckgo.com/
   method: unknown
   last_checked: 2022-07-16
-  
+
 - domain: emanuelpina.pt
   url: https://emanuelpina.pt/
   method: mediaquery
@@ -62,7 +67,7 @@
   url: https://evanhahn.com/
   method: mediaquery
   last_checked: 2022-07-16
-  
+
 - domain: feedmail.org
   url: https://feedmail.org
   method: mediaquery
@@ -82,7 +87,7 @@
   url: https://garrit.xyz/
   method: mediaquery
   last_checked: 2022-04-16
-  
+
 - domain: github.com
   url: https://github.com/
   method: mediaquery
@@ -112,7 +117,7 @@
   url: https://www.lkhrs.com/
   method: mediaquery
   last_checked: 2022-07-17
-  
+
 - domain: nih.ar
   url: https://nih.ar/
   method: mediaquery
@@ -127,7 +132,7 @@
   url: https://pragmaticpineapple.com/
   method: mediaquery
   last_checked: 2022-07-18
-  
+
 - domain: radiocanadamini.ca
   url: https://radiocanadamini.ca/
   method: mediaquery
@@ -172,12 +177,12 @@
   url: https://taylantatli.com/
   method: mediaquery
   last_checked: 2022-07-17
-  
+
 - domain: tecroxy.com
   url: https://tecroxy.com/
   method: javascript
   last_checked: 2022-12-11
-  
+
 - domain: thomas.me
   url: https://thomas.me/
   method: mediaquery
