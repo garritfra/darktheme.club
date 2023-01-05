@@ -192,6 +192,11 @@
   url: https://thomas.me/
   method: mediaquery
   last_checked: 2022-07-17
+  
+- domain: traeblain.com
+  url: https://traeblain.com/
+  method: mediaquery
+  last_checked: 2023-01-05
 
 - domain: watch3r.app
   url: https://watch3r.app/
