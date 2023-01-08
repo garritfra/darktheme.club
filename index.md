@@ -29,7 +29,7 @@ media query.
 </div>
 
 <ul class="sites">
-    {%- assign site_domains = site.data.sites -%}
+    {%- assign site_domains = site.data.sites | sort:"domain" -%}
     {%- for item in site_domains -%}
         {% include sites.html %}
     {%- endfor -%}
