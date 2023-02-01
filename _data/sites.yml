@@ -1,3 +1,8 @@
+- domain: ff99cc.art
+  url: https://ff99cc.art/
+  method: mediaquery
+  last_checked: 2023-02-02
+
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
