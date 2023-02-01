@@ -38,6 +38,11 @@
   method: darkonly
   last_checked: 2022-21-12
 
+- domain: chino.is-a.dev
+  url: https://chino.is-a.dev/
+  method: darkonly
+  last_checked: 2023-02-01
+
 - domain: claytonerrington.com
   url: https://claytonerrington.com/
   method: darkonly
