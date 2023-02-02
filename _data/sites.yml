@@ -83,6 +83,11 @@
   method: mediaquery
   last_checked: 2022-07-16
 
+- domain: ff99cc.art
+  url: https://ff99cc.art/
+  method: mediaquery
+  last_checked: 2023-02-02
+
 - domain: foreverliketh.is
   url: https://foreverliketh.is/
   method: javascript
