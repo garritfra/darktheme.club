@@ -50,8 +50,8 @@
 
 - domain: cleberg.net
   url: https://cleberg.net/
-  method: darkonly
-  last_checked: 2022-12-17
+  method: mediaquery
+  last_checked: 2023-02-03
 
 - domain: codeberg.org
   url: https://codeberg.org/
