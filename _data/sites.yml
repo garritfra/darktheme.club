@@ -222,3 +222,8 @@
   url: https://whoisyoges.eu.org/
   method: darkonly
   last_checked: 2022-12-12
+ 
+ - domain: zapisnik.skladka.net
+  url: https://zapisnik.skladka.net/
+  method: mediaquery
+  last_checked: 2023-02-06
