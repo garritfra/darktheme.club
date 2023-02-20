@@ -218,6 +218,11 @@
   method: mediaquery
   last_checked: 2023-01-05
 
+- domain: uncenter.org
+  url: https://www.uncenter.org/
+  method: mediaquery
+  last_checked: 2023-02-20
+
 - domain: watch3r.app
   url: https://watch3r.app/
   method: darkonly
