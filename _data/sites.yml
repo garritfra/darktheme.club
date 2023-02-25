@@ -210,8 +210,8 @@
  
 - domain: til.pm
   url: https://til.pm
-  method: mediaquery
-  last_checked: 2023-02-19
+  method: javascript
+  last_checked: 2023-02-24
   
 - domain: traeblain.com
   url: https://traeblain.com/
