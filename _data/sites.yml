@@ -137,6 +137,11 @@
   url: https://www.lkhrs.com/
   method: mediaquery
   last_checked: 2022-07-17
+  
+- domain: madelinepritchard.net
+  url: https://madelinepritchard.net/
+  method: mediaquery
+  last_checked: 2023-02-27
 
 - domain: nih.ar
   url: https://nih.ar/
