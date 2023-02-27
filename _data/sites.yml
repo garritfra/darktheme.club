@@ -17,6 +17,11 @@
   url: https://aitrack.work/
   method: javascript
   last_checked: 2022-07-19
+  
+- domain: alperor.us
+  url: https://alperor.us/
+  method: darkonly
+  last_checked: 2023-02-27
 
 - domain: bernsteinbear.com
   url: https://bernsteinbear.com/
