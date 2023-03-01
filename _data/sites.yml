@@ -128,6 +128,11 @@
   method: mediaquery
   last_checked: 2022-07-17
 
+- domain: jacksonchen666.com
+  url: https://jacksonchen666.com/
+  method: darkonly
+  last_checked: 2023-03-01
+
 - domain: jlelse.blog
   url: https://jlelse.blog/
   method: mediaquery
