@@ -198,6 +198,11 @@
   method: mediaquery
   last_checked: 2022-07-18
 
+- domain: sheepdev.xyz
+  url: https://sheepdev.xyz/
+  method: javascript
+  last_checked: 2023-03-01
+
 - domain: slashdev.space
   url: https://slashdev.space/
   method: mediaquery
