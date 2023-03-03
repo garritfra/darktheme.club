@@ -253,6 +253,11 @@
   method: darkonly
   last_checked: 2022-12-12
  
+- domain: yaslamblog.netlify.app
+  url: https://yaslamblog.netlify.app/
+  method: darkonly
+  last_checked: 2023-03-03
+
 - domain: zapisnik.skladka.net
   url: https://zapisnik.skladka.net/
   method: mediaquery
