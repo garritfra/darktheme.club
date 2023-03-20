@@ -32,6 +32,11 @@
   url: https://www.bfoliver.com
   method: mediaquery
   last_checked: 2022-04-16
+  
+- domain: blog.madelinepritchard.net
+  url: https://blog.madelinepritchard.net/
+  method: mediaquery
+  last_checked: 2023-03-20
 
 - domain: bubble.email
   url: https://bubble.email
