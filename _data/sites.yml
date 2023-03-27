@@ -153,6 +153,11 @@
   method: darkonly
   last_checked: 2023-01-04
 
+- domain: libre.town
+  url: https://libre.town/
+  method: darkonly
+  last_checked: 2023-03-27
+
 - domain: lkhrs.com
   url: https://www.lkhrs.com/
   method: mediaquery
