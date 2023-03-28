@@ -232,6 +232,11 @@
   url: https://tecroxy.com/
   method: javascript
   last_checked: 2022-12-11
+  
+- domain: ted.magaoay.org
+  url: https://ted.magaoay.org/
+  method: javascript
+  last_checked: 2023-03-28
 
 - domain: thomas.me
   url: https://thomas.me/
