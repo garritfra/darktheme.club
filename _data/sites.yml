@@ -238,6 +238,11 @@
   method: javascript
   last_checked: 2023-03-28
 
+- domain: thelazysre.com
+  url: https://thelazysre.com/
+  method: mediaquery
+  last_checked: 2023-04-02
+
 - domain: thomas.me
   url: https://thomas.me/
   method: mediaquery
