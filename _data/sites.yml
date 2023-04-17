@@ -73,6 +73,11 @@
   method: mediaquery
   last_checked: 2023-04-12
 
+- domain: darekkay.com
+  url: https://darekkay.com/
+  method: javascript
+  last_checked: 2023-04-17
+
 - domain: darktheme.club
   url: https://darktheme.club/
   method: mediaquery
