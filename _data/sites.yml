@@ -152,6 +152,11 @@
   url: https://joelchrono12.xyz
   method: darkonly
   last_checked: 2023-01-04
+  
+- domain: kathut.de
+  url: http://kathut.de/
+  method: darkonly
+  last_checked: 2023-04-16
 
 - domain: libre.town
   url: https://libre.town/
