@@ -177,6 +177,11 @@
   url: https://madelinepritchard.net/
   method: mediaquery
   last_checked: 2023-02-27
+  
+- domain: minutestomidnight.co.uk
+  url: https://minutestomidnight.co.uk/
+  method: mediaquery
+  last_checked: 2023-04-17
 
 - domain: nih.ar
   url: https://nih.ar/
@@ -227,6 +232,11 @@
   url: https://sheepdev.xyz/
   method: javascript
   last_checked: 2023-03-01
+  
+- domain: simonesilvestroni.com
+  url: https://simonesilvestroni.com/
+  method: mediaquery
+  last_checked: 2023-04-17
 
 - domain: slashdev.space
   url: https://slashdev.space/
