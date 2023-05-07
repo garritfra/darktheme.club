@@ -153,6 +153,11 @@
   method: mediaquery
   last_checked: 2022-07-16
 
+- domain: jlo64.github.io
+  url: https://jlo64.github.io/
+  method: mediaquery
+  last_checked: 2023-05-06
+
 - domain: joelchrono12.xyz
   url: https://joelchrono12.xyz
   method: darkonly
