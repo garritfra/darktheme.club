@@ -68,10 +68,10 @@
   method: darkonly
   last_checked: 2023-01-07
   
-  - domain: cleberg.net
-    url: https://cleberg.net/
-    method: mediaquery
-    last_checked: 2023-05-22
+- domain: cleberg.net
+  url: https://cleberg.net/
+  method: mediaquery
+  last_checked: 2023-05-22
 
 - domain: codeberg.org
   url: https://codeberg.org/
