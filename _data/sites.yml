@@ -173,6 +173,11 @@
   method: darkonly
   last_checked: 2023-01-04
   
+- domain: kaifa.ch
+  url: https://kaifa.ch/
+  method: darkonly
+  last_checked: 2023-05-23
+  
 - domain: kathut.de
   url: http://kathut.de/
   method: darkonly
