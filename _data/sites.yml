@@ -18,6 +18,11 @@
   method: javascript
   last_checked: 2022-07-19
   
+- domain: alessandrocuzzocrea.com
+  url: https://alessandrocuzzocrea.com
+  method: mediaquery
+  last_checked: 2023-05-26
+
 - domain: alperor.us
   url: https://alperor.us/
   method: darkonly
