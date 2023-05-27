@@ -258,6 +258,11 @@
   method: mediaquery
   last_checked: 2022-07-18
 
+- domain: sendpasswords.net
+  url: https://sendpasswords.net/
+  method: mediaquery
+  last_checked: 2023-05-27
+
 - domain: sheepdev.xyz
   url: https://sheepdev.xyz/
   method: javascript
