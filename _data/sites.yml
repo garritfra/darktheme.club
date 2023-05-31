@@ -248,6 +248,11 @@
   method: mediaquery
   last_checked: 2022-10-30
 
+- domain: sebastinux.com
+  url: https://sebastinux.com/
+  method: mediaquery
+  last_checked: 2023-05-31
+
 - domain: seeking-maintainers.net
   url: https://seeking-maintainers.net/
   method: mediaquery
