@@ -8,6 +8,11 @@
   method: mediaquery
   last_checked: 2022-11-26
 
+- domain: 992c.com
+  url: https://992c.com/
+  method: darkonly
+  last_checked: 2023-06-22
+
 - domain: adamsdesk.com
   url: https://www.adamsdesk.com/
   method: darkonly
@@ -197,6 +202,11 @@
   url: https://libre.town/
   method: darkonly
   last_checked: 2023-03-27
+
+- domain: kimkulak.com
+  url: https://kimkulak.com/
+  method: darkonly
+  last_checked: 2023-06-22
 
 - domain: lkhrs.com
   url: https://www.lkhrs.com/
