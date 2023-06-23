@@ -159,7 +159,7 @@
   last_checked: 2022-07-17
 
 - domain: ineedmore.coffee
-  url: http://ineedmore.coffee/ (Make sure you keep the trailing slash)
+  url: https://ineedmore.coffee/ (Make sure you keep the trailing slash)
   method: mediaquery
   last_checked: 2023-06-23
 
