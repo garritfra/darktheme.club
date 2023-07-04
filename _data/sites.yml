@@ -147,6 +147,11 @@
   url: https://github.com/
   method: mediaquery
   last_checked: 2022-07-16
+  
+- domain: hen.ee
+  url: https://hen.ee/
+  method: javascript
+  last_checked: 2023-07-04
 
 - domain: home.omg.lol
   url: https://home.omg.lol
