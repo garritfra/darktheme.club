@@ -147,6 +147,11 @@
   url: https://github.com/
   method: mediaquery
   last_checked: 2022-07-16
+  
+- domain: hen.ee
+  url: https://hen.ee/
+  method: javascript
+  last_checked: 2023-04-07
 
 - domain: home.omg.lol
   url: https://home.omg.lol
@@ -367,8 +372,3 @@
   url: https://zapisnik.skladka.net/
   method: mediaquery
   last_checked: 2023-02-06
-
-- domain: hen.ee
-  url: https://hen.ee/
-  method: javascript
-  last_checked: 2023-04-07
