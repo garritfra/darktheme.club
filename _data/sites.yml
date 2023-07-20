@@ -173,6 +173,11 @@
   method: mediaquery
   last_checked: 2022-07-17
 
+- domain: iyaki.ar
+  url: https://iyaki.ar/
+  method: mediaquery
+  last_checked: 2023-07-20
+
 - domain: jacksonchen666.com
   url: https://jacksonchen666.com/
   method: mediaquery
