@@ -208,6 +208,11 @@
   method: darkonly
   last_checked: 2023-04-16
 
+- domain: kirillunlimited.com
+  url: https://kirillunlimited.com
+  method: mediaquery
+  last_checked: 2023-08-08
+
 - domain: libre.town
   url: https://libre.town/
   method: darkonly
