@@ -39,7 +39,7 @@ module RSSGenerator
         channel.add_element(item)
 
         title = Element.new('title')
-        title.text = website['domain']
+        title.text = "Darktheme Club: #{website['domain']} was added or updated"
         item.add_element(title)
 
         link = Element.new('link')
