@@ -73,11 +73,6 @@
   method: darkonly
   last_checked: 2022-07-17
 
-- domain: castorisdead.xyz
-  url: https://castorisdead.xyz
-  method: darkonly
-  last_checked: 2022-12-21
-
 - domain: canistop.net
   url: https://canistop.net
   method: mediaquery
@@ -87,6 +82,11 @@
   url: https://canwe.dev
   method: mediaquery
   last_checked: 2023-08-30
+
+- domain: castorisdead.xyz
+  url: https://castorisdead.xyz
+  method: darkonly
+  last_checked: 2022-12-21
 
 - domain: chino.is-a.dev
   url: https://chino.is-a.dev/
