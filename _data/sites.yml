@@ -32,7 +32,12 @@
   url: https://basementcommunity.com
   method: javascript
   last_checked: 2023-05-18
-  
+
+- domain: bbbhltz.codeberg.page
+  url: https://bbbhltz.codeberg.page/
+  method: mediaquery
+  last_checked: 2023-08-30
+
 - domain: bburt.me
   url: https://bburt.me/
   method: mediaquery
