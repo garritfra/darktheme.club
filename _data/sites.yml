@@ -233,6 +233,11 @@
   method: darkonly
   last_checked: 2023-04-16
 
+- domain: kimchiii.space
+  url: https://kimchiii.space/
+  method: darkonly
+  last_checked: 2023-09-08
+
 - domain: kirillunlimited.com
   url: https://kirillunlimited.com
   method: mediaquery
