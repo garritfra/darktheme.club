@@ -263,6 +263,11 @@
   method: mediaquery
   last_checked: 2023-04-17
 
+- domain: map.scientiac.space
+  url: https://map.scientiac.space/
+  method: javascript
+  last_checked: 2023-09-11
+
 - domain: nih.ar
   url: https://nih.ar/
   method: mediaquery
@@ -297,6 +302,11 @@
   url: https://rohandebsarkar.github.io/
   method: mediaquery
   last_checked: 2022-10-30
+
+- domain: scientiac.space
+  url: https://scientiac.space/
+  method: javascript
+  last_checked: 2023-09-11
 
 - domain: scottk.mba
   url: https://scottk.mba/
