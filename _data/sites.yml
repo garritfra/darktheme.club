@@ -258,6 +258,11 @@
   method: mediaquery
   last_checked: 2023-02-27
   
+- domain: map.scientiac.space
+  url: https://map.scientiac.space/
+  method: javascript
+  last_checked: 2023-09-11
+
 - domain: minutestomidnight.co.uk
   url: https://minutestomidnight.co.uk/
   method: mediaquery
@@ -297,6 +302,11 @@
   url: https://rohandebsarkar.github.io/
   method: mediaquery
   last_checked: 2022-10-30
+
+- domain: scientiac.space
+  url: https://scientiac.space/
+  method: javascript
+  last_checked: 2023-09-11
 
 - domain: scottk.mba
   url: https://scottk.mba/
