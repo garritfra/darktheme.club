@@ -258,15 +258,15 @@
   method: mediaquery
   last_checked: 2023-02-27
   
-- domain: minutestomidnight.co.uk
-  url: https://minutestomidnight.co.uk/
-  method: mediaquery
-  last_checked: 2023-04-17
-
 - domain: map.scientiac.space
   url: https://map.scientiac.space/
   method: javascript
   last_checked: 2023-09-11
+
+- domain: minutestomidnight.co.uk
+  url: https://minutestomidnight.co.uk/
+  method: mediaquery
+  last_checked: 2023-04-17
 
 - domain: nih.ar
   url: https://nih.ar/
