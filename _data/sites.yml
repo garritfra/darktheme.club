@@ -202,6 +202,11 @@
   url: https://iyaki.ar/
   method: mediaquery
   last_checked: 2023-07-20
+  
+- domain: jackiechalarca.org
+  url: https://jackiechalarca.org/
+  method: mediaquery
+  last_checked: 2023-09-28
 
 - domain: jacksonchen666.com
   url: https://jacksonchen666.com/
