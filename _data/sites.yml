@@ -248,6 +248,11 @@
   method: mediaquery
   last_checked: 2023-08-08
 
+- domain: konstantintutsch.de
+  url: https://konstantintutsch.de/
+  method: mediaquery
+  last_checked: 2023-10-07
+
 - domain: libre.town
   url: https://libre.town/
   method: darkonly
