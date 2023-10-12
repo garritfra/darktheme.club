@@ -128,6 +128,11 @@
   method: mediaquery
   last_checked: 2022-07-25
 
+- domain: dillonbaird.io
+  url: https://dillonbaird.io/
+  method: mediaquery
+  last_checked: 2023-10-12
+
 - domain: duckduckgo.com
   url: https://duckduckgo.com/
   method: unknown
