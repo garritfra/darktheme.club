@@ -278,6 +278,11 @@
   method: mediaquery
   last_checked: 2023-04-17
 
+- domain: mnsr.win
+  url: https://mnsr.win/
+  method: darkonly
+  last_checked: 2023-10-12
+
 - domain: nih.ar
   url: https://nih.ar/
   method: mediaquery
