@@ -68,6 +68,11 @@
   method: mediaquery
   last_checked: 2023-03-20
 
+- domain: blog.vinfall.com
+  url: https://blog.vinfall.com/
+  method: darkonly
+  last_checked: 2023-10-14
+
 - domain: bubble.email
   url: https://bubble.email
   method: darkonly
