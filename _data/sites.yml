@@ -187,6 +187,11 @@
   url: https://github.com/
   method: mediaquery
   last_checked: 2022-07-16
+
+- domain: gwern.net
+  url: https://gwern.net
+  method: mediaquery
+  last_checked: 2023-11-02
   
 - domain: hen.ee
   url: https://hen.ee/
