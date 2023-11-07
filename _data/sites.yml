@@ -17,7 +17,7 @@
   url: https://aitrack.work/
   method: javascript
   last_checked: 2022-07-19
-  
+
 - domain: alessandrocuzzocrea.com
   url: https://alessandrocuzzocrea.com
   method: mediaquery
@@ -62,12 +62,12 @@
   url: https://block.sunappu.net
   method: mediaquery
   last_checked: 2023-08-30
-  
+
 - domain: blog.darylsun.page
   url: https://blog.darylsun.page/
   method: mediaquery
   last_checked: 2023-08-18
-  
+
 - domain: blog.madelinepritchard.net
   url: https://blog.madelinepritchard.net/
   method: mediaquery
@@ -107,7 +107,7 @@
   url: https://claytonerrington.com/
   method: darkonly
   last_checked: 2023-01-07
-  
+
 - domain: cleberg.net
   url: https://cleberg.net/
   method: mediaquery
@@ -192,7 +192,7 @@
   url: https://gwern.net
   method: mediaquery
   last_checked: 2023-11-02
-  
+
 - domain: hen.ee
   url: https://hen.ee/
   method: javascript
@@ -222,7 +222,7 @@
   url: https://iyaki.ar/
   method: mediaquery
   last_checked: 2023-07-20
-  
+
 - domain: jackiechalarca.org
   url: https://jackiechalarca.org/
   method: mediaquery
@@ -247,12 +247,12 @@
   url: https://joelchrono12.xyz
   method: darkonly
   last_checked: 2023-01-04
-  
+
 - domain: kaifa.ch
   url: https://kaifa.ch/
   method: darkonly
   last_checked: 2023-05-23
-  
+
 - domain: kathut.de
   url: http://kathut.de/
   method: darkonly
@@ -282,12 +282,12 @@
   url: https://www.lkhrs.com/
   method: mediaquery
   last_checked: 2022-07-17
-  
+
 - domain: madelinepritchard.net
   url: https://madelinepritchard.net/
   method: mediaquery
   last_checked: 2023-02-27
-  
+
 - domain: map.scientiac.space
   url: https://map.scientiac.space/
   method: javascript
@@ -372,7 +372,7 @@
   url: https://sheepdev.xyz/
   method: javascript
   last_checked: 2023-03-01
-  
+
 - domain: simonesilvestroni.com
   url: https://simonesilvestroni.com/
   method: mediaquery
@@ -397,7 +397,7 @@
   url: https://tecroxy.com/
   method: javascript
   last_checked: 2022-12-11
-  
+
 - domain: tedmagaoay.com
   url: https://tedmagaoay.com/
   method: javascript
@@ -412,12 +412,12 @@
   url: https://thomas.me/
   method: mediaquery
   last_checked: 2022-07-17
- 
+
 - domain: til.pm
   url: https://til.pm
   method: javascript
   last_checked: 2023-02-24
-  
+
 - domain: traeblain.com
   url: https://traeblain.com/
   method: mediaquery
@@ -447,7 +447,7 @@
   url: https://whoisyoges.eu.org/
   method: darkonly
   last_checked: 2022-12-12
- 
+
 - domain: yaslamblog.netlify.app
   url: https://yaslamblog.netlify.app/
   method: darkonly
