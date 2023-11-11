@@ -268,10 +268,10 @@
   method: mediaquery
   last_checked: 2023-08-08
 
-- domain: konstantintutsch.de
-  url: https://konstantintutsch.de/
+- domain: konstantintutsch.com
+  url: https://konstantintutsch.com/
   method: mediaquery
-  last_checked: 2023-10-07
+  last_checked: 2023-11-11
 
 - domain: libre.town
   url: https://libre.town/
