@@ -1,3 +1,8 @@
+- domain: storydragon.nl
+  url: https://storydragon.nl
+  method: mediaquery
+  last_checked: 2023-11-13
+
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
