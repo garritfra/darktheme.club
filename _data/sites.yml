@@ -313,6 +313,11 @@
   method: mediaquery
   last_checked: 2022-10-23
 
+- domain: orbitalmartian.codeberg.page
+  url: https://orbitalmartian.codeberg.page/
+  method: mediaquery
+  last_checked: 2023-11-19
+
 - domain: phishwarn.codeberg.page
   url: https://phishwarn.codeberg.page/
   method: mediaquery
