@@ -3,6 +3,11 @@
   method: mediaquery
   last_checked: 2022-04-16
 
+- domain: foo.bar
+  url: https://foo.bar
+  method: mediaquery
+  last_checked: 2023-11-13
+
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
