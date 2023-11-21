@@ -1,3 +1,8 @@
+- domain: hans.gerwitz.com
+  url: https://hans.gerwitz.com/
+  method: mediaquery
+  last_checked: 2023-11-20
+  
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
