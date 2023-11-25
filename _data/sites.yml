@@ -1,3 +1,8 @@
+- domain: ksbrooksjr.com
+  url: https://ksbrooksjr.com/
+  method: mediaquery
+  last_checked: 2023-11-24
+
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
