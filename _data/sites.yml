@@ -198,6 +198,11 @@
   method: javascript
   last_checked: 2023-11-25
 
+- domain: hex.moonwith.com
+  url: http://hex.moonwith.com/
+  method: javascript
+  last_checked: 2023-11-27
+
 - domain: hans.gerwitz.com
   url: https://hans.gerwitz.com/
   method: mediaquery
