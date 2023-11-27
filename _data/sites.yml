@@ -198,11 +198,6 @@
   method: javascript
   last_checked: 2023-11-25
 
-- domain: hex.moonwith.com
-  url: http://hex.moonwith.com/
-  method: javascript
-  last_checked: 2023-11-27
-
 - domain: hans.gerwitz.com
   url: https://hans.gerwitz.com/
   method: mediaquery
@@ -212,6 +207,11 @@
   url: https://hen.ee/
   method: javascript
   last_checked: 2023-07-04
+
+- domain: hex.moonwith.com
+  url: http://hex.moonwith.com/
+  method: javascript
+  last_checked: 2023-11-27
 
 - domain: home.omg.lol
   url: https://home.omg.lol
