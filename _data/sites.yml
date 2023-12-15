@@ -373,10 +373,10 @@
   method: darkonly
   last_checked: 2023-06-17
 
-- domain: sebastinux.com
-  url: https://sebastinux.com/
+- domain: sebastien-mouchet.fr
+  url: https://sebastien-mouchet.fr/
   method: mediaquery
-  last_checked: 2023-05-31
+  last_checked: 2023-12-14
 
 - domain: seeking-maintainers.net
   url: https://seeking-maintainers.net/
