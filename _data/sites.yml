@@ -1,8 +1,3 @@
-- domain: mini.moonlab.top
-  url: https://mini.moonlab.top/
-  method: darkonly
-  last_checked: 2023-12-26
-
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
@@ -322,6 +317,11 @@
   url: https://map.scientiac.space/
   method: javascript
   last_checked: 2023-09-11
+
+- domain: mini.moonlab.top
+  url: https://mini.moonlab.top/
+  method: darkonly
+  last_checked: 2023-12-26
 
 - domain: minutestomidnight.co.uk
   url: https://minutestomidnight.co.uk/
