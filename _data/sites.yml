@@ -1,3 +1,8 @@
+- domain: mini.moonlab.top
+  url: https://mini.moonlab.top/
+  method: darkonly
+  last_checked: 2023-12-26
+
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
