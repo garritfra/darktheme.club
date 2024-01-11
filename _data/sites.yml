@@ -502,3 +502,8 @@
   url: https://zapisnik.skladka.net/
   method: mediaquery
   last_checked: 2023-02-06
+
+- domain: adast.dk
+  url: https://adast.dk/ 
+  method: mediaquery 
+  last_checked: 2024-01-11
