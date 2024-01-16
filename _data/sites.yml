@@ -3,11 +3,6 @@
   method: mediaquery
   last_checked: 2022-04-16
 
-- domain: 5am.is
-  url: https://5am.is/
-  method: mediaquery
-  last_checked: 2022-11-26
-
 - domain: adamsdesk.com
   url: https://www.adamsdesk.com/
   method: darkonly
@@ -347,6 +342,11 @@
   url: https://orbitalmartian.codeberg.page/
   method: mediaquery
   last_checked: 2023-11-19
+
+- domain: petercammeraat.net
+  url: https://petercammeraat.net/
+  method: mediaquery
+  last_checked: 2024-01-16
 
 - domain: phishwarn.codeberg.page
   url: https://phishwarn.codeberg.page/
