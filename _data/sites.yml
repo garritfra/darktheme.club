@@ -138,6 +138,11 @@
   method: mediaquery
   last_checked: 2022-07-25
 
+- domain: denisdefreyne.com
+  url: https://denisdefreyne.com/
+  method: mediaquery
+  last_checked: 2024-01-20
+
 - domain: dillonbaird.io
   url: https://dillonbaird.io/
   method: mediaquery
@@ -507,8 +512,3 @@
   url: https://zapisnik.skladka.net/
   method: mediaquery
   last_checked: 2023-02-06
-
-- domain: denisdefreyne.com
-  url: https://denisdefreyne.com/
-  method: mediaquery
-  last_checked: 2024-01-20
