@@ -193,6 +193,11 @@
   method: mediaquery
   last_checked: 2022-04-16
 
+- domain: garud.netlify.app
+  url: https://garud.netlify.app/
+  method: darkonly
+  last_checked: 2024-02-10
+
 - domain: github.com
   url: https://github.com/
   method: mediaquery
