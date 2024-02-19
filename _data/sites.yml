@@ -83,6 +83,11 @@
   method: darkonly
   last_checked: 2022-07-17
 
+- domain: bukmark.club
+  url: https://bukmark.club/
+  method: darkonly
+  last_checked: 2024-02-19
+
 - domain: canistop.net
   url: https://canistop.net
   method: mediaquery
