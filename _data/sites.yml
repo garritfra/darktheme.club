@@ -13,11 +13,6 @@
   method: mediaquery
   last_checked: 2024-01-11
 
-- domain: justsujay.github.io
-  url: https://justsujay.github.io/
-  method: javascript
-  last_checked: 2024-02-24
-
 - domain: aitrack.work
   url: https://aitrack.work/
   method: javascript
@@ -287,6 +282,11 @@
   url: https://joelchrono12.xyz
   method: darkonly
   last_checked: 2023-01-04
+
+- domain: justsujay.github.io
+  url: https://justsujay.github.io/
+  method: javascript
+  last_checked: 2024-02-24
 
 - domain: kaifa.ch
   url: https://kaifa.ch/
