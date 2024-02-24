@@ -13,6 +13,11 @@
   method: mediaquery
   last_checked: 2024-01-11
 
+- domain: justsujay.github.io
+  url: https://justsujay.github.io/
+  method: javascript
+  last_checked: 2024-02-24
+
 - domain: aitrack.work
   url: https://aitrack.work/
   method: javascript
