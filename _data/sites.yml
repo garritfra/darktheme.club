@@ -453,6 +453,11 @@
   method: mediaquery
   last_checked: 2023-11-13
 
+- domain: sudocss.vercel.app
+  url: https://sudocss.vercel.app/
+  method: darkonly
+  last_checked: 2024-03-19
+
 - domain: tauri.app
   url: https://tauri.app/
   method: javascript
