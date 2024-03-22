@@ -383,6 +383,11 @@
   method: mediaquery
   last_checked: 2022-07-18
 
+- domain: r74n.com
+  url: https://r74n.com/
+  method: darkonly
+  last_checked: 2024-03-20
+
 - domain: radiocanadamini.ca
   url: https://radiocanadamini.ca/
   method: mediaquery
@@ -547,8 +552,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: r74n.com
-  url: https://r74n.com/
-  method: darkonly
-  last_checked: 2024-03-20
