@@ -193,6 +193,11 @@
   method: mediaquery
   last_checked: 2022-07-21
 
+- domain: frills.dev
+  url: https://frills.dev/
+  method: mediaquery
+  last_checked: 2024-03-27
+
 - domain: garrit.xyz
   url: https://garrit.xyz/
   method: mediaquery
