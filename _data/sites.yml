@@ -3,6 +3,11 @@
   method: mediaquery
   last_checked: 2022-04-16
 
+- domain: cashx.pages.dev
+  url: https://cashx.pages.dev/
+  method: mediaquery
+  last_checked: 2024-03-28
+
 - domain: adamsdesk.com
   url: https://www.adamsdesk.com/
   method: darkonly
