@@ -138,6 +138,11 @@
   method: mediaquery
   last_checked: 2023-04-12
 
+- domain: cri.cl
+  url: https://cri.cl/
+  method: darkonly
+  last_checked: 2024-03-28
+
 - domain: darekkay.com
   url: https://darekkay.com/
   method: javascript
