@@ -567,3 +567,13 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: 250kb.club
+  url: https://250kb.club/
+  method: mediaquery
+  last_checked: 2024-03-30
+
+- domain: koehr.ing
+  url: https://koehr.ing/
+  method: darkonly
+  last_checked: 2024-03-30
