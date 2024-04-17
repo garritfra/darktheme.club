@@ -213,6 +213,11 @@
   method: mediaquery
   last_checked: 2024-03-27
 
+- domain: gagor.pro
+  url: https://gagor.pro/
+  method: mediaquery
+  last_checked: 2024-04-16
+
 - domain: garrit.xyz
   url: https://garrit.xyz/
   method: mediaquery
@@ -572,8 +577,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: gagor.pro
-  url: https://gagor.pro/
-  method: mediaquery
-  last_checked: 2024-04-16
