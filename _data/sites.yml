@@ -1,3 +1,8 @@
+- domain: visil.gw.lt
+  url: https://visil.gw.lt/
+  method: mediaquery
+  last_checked: 2024-04-28
+
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
