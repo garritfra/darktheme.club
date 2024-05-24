@@ -558,6 +558,11 @@
   method: mediaquery
   last_checked: 2023-02-20
 
+- domain: villapirorum.netlify.app
+  url: https://villapirorum.netlify.app/
+  method: mediaquery
+  last_checked: 2024-05-24
+
 - domain: visil.gw.lt
   url: https://visil.gw.lt/
   method: mediaquery
@@ -587,8 +592,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: villapirorum.netlify.app
-  url: https://villapirorum.netlify.app/
-  method: mediaquery
-  last_checked: 2024-05-24
