@@ -592,3 +592,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: ferrad.as
+  url: https://ferrad.as/
+  method: mediaquery
+  last_checked: 2023-06-04
