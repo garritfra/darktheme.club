@@ -148,6 +148,11 @@
   method: darkonly
   last_checked: 2024-03-28
 
+- domain: crism.ro
+  url: https://crism.ro/
+  method: darkonly
+  last_checked: 2024-06-26
+
 - domain: darekkay.com
   url: https://darekkay.com/
   method: javascript
