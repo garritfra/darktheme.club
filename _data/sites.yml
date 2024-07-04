@@ -145,8 +145,8 @@
 
 - domain: cri.cl
   url: https://cri.cl/
-  method: darkonly
-  last_checked: 2024-03-28
+  method: mediaquery
+  last_checked: 2024-07-04
 
 - domain: crism.ro
   url: https://crism.ro/
