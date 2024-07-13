@@ -1,8 +1,3 @@
-- domain: crtv.pages.dev
-  url: https://crtv.pages.dev/
-  method: mediaquery
-  last_checked: 2024-07-13
-  
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
@@ -157,6 +152,11 @@
   url: https://crism.ro/
   method: darkonly
   last_checked: 2024-06-26
+
+- domain: crtv.pages.dev
+  url: https://crtv.pages.dev/
+  method: mediaquery
+  last_checked: 2024-07-13
 
 - domain: darekkay.com
   url: https://darekkay.com/
