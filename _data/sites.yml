@@ -617,3 +617,13 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: helenchong.dev
+  url: https://helenchong.dev/
+  method: mediaquery
+  last_checked: 2024-07-13
+
+- domain: leilukin.com
+  url: https://leilukin.com/
+  method: darkonly
+  last_checked: 2024-07-13
