@@ -627,3 +627,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: mrkod.eu.org
+  url: https://mrkod.eu.org/
+  method: darkonly
+  last_checked: 2024-07-17
