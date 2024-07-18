@@ -418,6 +418,11 @@
   method: darkonly
   last_checked: 2023-10-12
 
+- domain: mrkod.eu.org
+  url: https://mrkod.eu.org/
+  method: darkonly
+  last_checked: 2024-07-17
+
 - domain: nih.ar
   url: https://nih.ar/
   method: mediaquery
@@ -627,8 +632,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: mrkod.eu.org
-  url: https://mrkod.eu.org/
-  method: darkonly
-  last_checked: 2024-07-17
