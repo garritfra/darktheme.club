@@ -150,8 +150,8 @@
 
 - domain: crism.ro
   url: https://crism.ro/
-  method: darkonly
-  last_checked: 2024-06-26
+  method: MediaQuery
+  last_checked: 2024-07-28
 
 - domain: darekkay.com
   url: https://darekkay.com/
