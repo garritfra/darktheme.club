@@ -422,6 +422,11 @@
   url: https://mrkod.eu.org/
   method: darkonly
   last_checked: 2024-07-17
+  
+- domain: nali.org
+  url: https://nali.org/
+  method: javascript
+  last_checked: 2024-08-22
 
 - domain: nih.ar
   url: https://nih.ar/
