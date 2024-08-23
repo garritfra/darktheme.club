@@ -638,7 +638,7 @@
   method: javascript
   last_checked: 2024-02-27
 
-- domain: example.com
+- domain: asnine.me
   url: https://asnine.me/ 
   method: mediaquery 
   last_checked: 2024-08-23 
