@@ -33,6 +33,11 @@
   method: darkonly
   last_checked: 2023-02-27
 
+- domain: asnine.me
+  url: https://asnine.me/
+  method: mediaquery
+  last_checked: 2024-08-23
+
 - domain: basementcommunity.com
   url: https://basementcommunity.com
   method: javascript
@@ -637,8 +642,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: asnine.me
-  url: https://asnine.me/ 
-  method: mediaquery 
-  last_checked: 2024-08-23 
