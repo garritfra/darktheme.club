@@ -398,6 +398,11 @@
   method: mediaquery
   last_checked: 2022-07-17
 
+- domain: lukron.xyz
+  url: https://lukron.xyz/
+  method: javascript
+  last_checked: 2024-08-30
+
 - domain: madelinepritchard.net
   url: https://madelinepritchard.net/
   method: mediaquery
@@ -642,8 +647,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: lukron.xyz
-  url: https://lukron.xyz/
-  method: javascript
-  last_checked: 2024-08-30
