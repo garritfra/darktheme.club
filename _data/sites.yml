@@ -642,3 +642,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: lukron.xyz
+  url: https://lukron.xyz/
+  method: javascript
+  last_checked: 2024-08-30
