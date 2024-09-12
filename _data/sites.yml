@@ -138,6 +138,11 @@
   method: mediaquery
   last_checked: 2022-07-21
 
+- domain: codingotaku.com
+  url: https://codingotaku.com
+  method: mediaquery
+  last_checked: 2024-09-09
+
 - domain: colincogle.name
   url: https://colincogle.name/
   method: mediaquery
