@@ -3,11 +3,6 @@
   method: mediaquery
   last_checked: 2024-03-30
 
-- domain: rishikeshs.com
-  url: https://rishikeshs.com/
-  method: darkonly
-  last_checked: 2024-09-27
-
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
@@ -497,6 +492,11 @@
   url: https://revuo-xmr.com/
   method: javascript
   last_checked: 2022-07-16
+
+- domain: rishikeshs.com
+  url: https://rishikeshs.com/
+  method: darkonly
+  last_checked: 2024-09-27
 
 - domain: rober.design
   url: https://rober.design/
