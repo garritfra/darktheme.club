@@ -667,3 +667,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: brentter.com
+  url: https://brentter.com/
+  method: darkonly
+  last_checked: 2024-10-19
