@@ -672,3 +672,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: home.hedy.dev
+  url: https://home.hedy.dev/
+  method: mediaquery
+  last_checked: 2024-10-30
