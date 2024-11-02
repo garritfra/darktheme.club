@@ -677,3 +677,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: nelson.cloud
+  url: https://nelson.cloud/
+  method: javascript
+  last_checked: 2024-11-02
