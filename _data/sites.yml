@@ -1,3 +1,8 @@
+- domain: uiduck.com
+  url: https://uiduck.com/
+  method: darkonly
+  last_checked: 2024-11-15
+  
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
