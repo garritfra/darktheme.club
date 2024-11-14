@@ -298,6 +298,11 @@
   method: mediaquery
   last_checked: 2022-10-26
 
+- domain: hstsethi.vercel.app
+  url: https://hstsethi.vercel.app/
+  method: darkonly
+  last_checked: 2024-11-14
+
 - domain: hugo.md
   url: https://hugo.md/
   method: mediaquery
@@ -642,8 +647,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: hstsethi.vercel.app
-  url: https://hstsethi.vercel.app/
-  method: darkonly
-  last_checked: 2024-11-14
