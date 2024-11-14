@@ -642,3 +642,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: hstsethi.vercel.app
+  url: https://hstsethi.vercel.app/
+  method: darkonly
+  last_checked: 2024-11-14
