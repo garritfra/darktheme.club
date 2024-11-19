@@ -275,8 +275,13 @@
 
 - domain: helenchong.dev
   url: https://helenchong.dev/
-  method: mediaquery
-  last_checked: 2024-07-13
+  method: colorscheme
+  last_checked: 2024-11-19
+
+- domain: blog.helenchong.omg.lol
+  url: https://blog.helenchong.omg.lol/
+  method: colorscheme
+  last_checked: 2024-11-19
 
 - domain: hen.ee
   url: https://hen.ee/
