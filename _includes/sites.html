@@ -1,5 +1,7 @@
 {% capture methods %}{{ item.method }}{% endcapture %}
 
+{% if methods == 'colorscheme' %}
+  {% assign method = "ColorScheme" %}
 {% if methods == 'mediaquery' %}
   {% assign method = "MediaQuery" %}
 {% elsif methods == 'javascript' %}
