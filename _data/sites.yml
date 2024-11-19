@@ -1,8 +1,3 @@
-- domain: uiduck.com
-  url: https://uiduck.com/
-  method: darkonly
-  last_checked: 2024-11-15
-  
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
@@ -617,6 +612,11 @@
   url: https://ttntm.me/
   method: mediaquery
   last_checked: 2024-01-03
+
+- domain: uiduck.com
+  url: https://uiduck.com/
+  method: darkonly
+  last_checked: 2024-11-15
 
 - domain: vale.rocks
   url: https://vale.rocks/
