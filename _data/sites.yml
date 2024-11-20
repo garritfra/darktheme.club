@@ -1,8 +1,3 @@
-- domain: blog.leenucks.xyz
-  url: https://blog.leenucks.xyz/
-  method: darkonly
-  last_checked: 2024-11-14
-
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
@@ -77,6 +72,11 @@
   url: https://blog.darylsun.page/
   method: mediaquery
   last_checked: 2023-08-18
+
+- domain: blog.leenucks.xyz
+  url: https://blog.leenucks.xyz/
+  method: darkonly
+  last_checked: 2024-11-14
 
 - domain: blog.madelinepritchard.net
   url: https://blog.madelinepritchard.net/
