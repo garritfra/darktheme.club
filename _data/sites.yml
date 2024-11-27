@@ -83,6 +83,11 @@
   method: mediaquery
   last_checked: 2023-03-20
 
+- domain: blog.newdegeneration.xyz
+  url: https://blog.newdegeneration.xyz/
+  method: darkonly
+  last_checked: 2022-11-27
+
 - domain: blog.vinfall.com
   url: https://blog.vinfall.com/
   method: darkonly
@@ -652,8 +657,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: blog.newdegeneration.xyz
-  url: https://blog.newdegeneration.xyz/
-  method: darkonly
-  last_checked: 2022-11-27
