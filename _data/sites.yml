@@ -652,3 +652,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: blog.newdegeneration.xyz
+  url: https://blog.newdegeneration.xyz/
+  method: darkonly
+  last_checked: 2022-11-27
