@@ -657,3 +657,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: adamchamberlin.info
+  url: https://adamchamberlin.info/
+  method: mediaquery
+  last_checked: 2024-12-13
