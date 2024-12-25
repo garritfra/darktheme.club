@@ -638,6 +638,11 @@
   method: mediaquery
   last_checked: 2024-05-24
 
+- domain: vanzasetia.xyz
+  url: https://vanzasetia.xyz/
+  method: mediaquery
+  last_checked: 2024-12-25
+
 - domain: visil.gw.lt
   url: https://visil.gw.lt/
   method: mediaquery
