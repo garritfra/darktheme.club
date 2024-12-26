@@ -8,6 +8,11 @@
   method: mediaquery
   last_checked: 2022-04-16
 
+- domain: adamchamberlin.info
+  url: https://adamchamberlin.info/
+  method: mediaquery
+  last_checked: 2024-12-13
+
 - domain: adamsdesk.com
   url: https://www.adamsdesk.com/
   method: darkonly
@@ -73,10 +78,20 @@
   method: mediaquery
   last_checked: 2023-08-18
 
+- domain: blog.leenucks.xyz
+  url: https://blog.leenucks.xyz/
+  method: darkonly
+  last_checked: 2024-11-14
+
 - domain: blog.madelinepritchard.net
   url: https://blog.madelinepritchard.net/
   method: mediaquery
   last_checked: 2023-03-20
+
+- domain: blog.newdegeneration.xyz
+  url: https://blog.newdegeneration.xyz/
+  method: darkonly
+  last_checked: 2022-11-27
 
 - domain: blog.vinfall.com
   url: https://blog.vinfall.com/
@@ -157,11 +172,6 @@
   url: https://cri.cl/
   method: mediaquery
   last_checked: 2024-07-04
-
-- domain: crism.ro
-  url: https://crism.ro/
-  method: MediaQuery
-  last_checked: 2024-07-28
 
 - domain: crtv.pages.dev
   url: https://crtv.pages.dev/
@@ -627,6 +637,11 @@
   url: https://vale.rocks/
   method: mediaquery
   last_checked: 2024-06-24
+
+- domain: vanzasetia.xyz
+  url: https://vanzasetia.xyz/
+  method: mediaquery
+  last_checked: 2024-12-25
 
 - domain: villapirorum.netlify.app
   url: https://villapirorum.netlify.app/
