@@ -12,7 +12,7 @@ the readers sight at night.
 **The Darktheme Club** is a collection of web pages from across the Internet. To
 qualify, your website must either use a dark theme by default, or respect the
 preference of the user, preferably through the
-[prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+[color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme) CSS property or the [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
 media query.
 
 <br>

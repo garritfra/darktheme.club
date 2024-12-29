@@ -8,7 +8,7 @@ the readers sight at night.
 **The Darktheme Club** is a collection of web pages from across the Internet. To
 qualify, your website must either offer a dark theme by default, or respect the
 preference of the user, preferably through the
-[prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+[color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme) CSS property or the [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
 media query.
 
 ## How to create a PR to add your site to the Darktheme Club
@@ -25,7 +25,7 @@ It's simple!
 ```
 - domain: example.com
   url: http://example.com/ (Make sure you keep the trailing slash)
-  method: mediaquery (Choose one of "mediaquery", "javascript", "darkonly", "opt-in", "unknown")
+  method: mediaquery (Choose one of "colorscheme", "mediaquery", "javascript", "darkonly", "opt-in", "unknown")
   last_checked: 2022-06-02 (YYYY-MM-DD)
 ```
 #### Blank
