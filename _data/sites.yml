@@ -78,6 +78,11 @@
   method: mediaquery
   last_checked: 2023-08-18
 
+- domain: blog.helenchong.omg.lol
+  url: https://blog.helenchong.omg.lol/
+  method: colorscheme
+  last_checked: 2024-11-19
+
 - domain: blog.leenucks.xyz
   url: https://blog.leenucks.xyz/
   method: darkonly
@@ -285,11 +290,6 @@
 
 - domain: helenchong.dev
   url: https://helenchong.dev/
-  method: colorscheme
-  last_checked: 2024-11-19
-
-- domain: blog.helenchong.omg.lol
-  url: https://blog.helenchong.omg.lol/
   method: colorscheme
   last_checked: 2024-11-19
 
