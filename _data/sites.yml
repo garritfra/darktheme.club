@@ -1,8 +1,3 @@
-- domain: pixelflips.com
-  url: https://pixelflips.com/
-  method: mediaquery
-  last_checked: 2025-02-15
-
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
@@ -497,6 +492,11 @@
   url: https://phishwarn.codeberg.page/
   method: mediaquery
   last_checked: 2022-07-16
+
+- domain: pixelflips.com
+  url: https://pixelflips.com/
+  method: mediaquery
+  last_checked: 2025-02-15
 
 - domain: pragmaticpineapple.com
   url: https://pragmaticpineapple.com/
