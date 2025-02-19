@@ -413,6 +413,11 @@
   method: mediaquery
   last_checked: 2023-11-24
 
+- domain: lai.nz
+  url: https://lai.nz
+  method: colorscheme
+  last_checked: 2025-02-16
+
 - domain: leilukin.com
   url: https://leilukin.com/
   method: darkonly
