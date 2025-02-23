@@ -687,3 +687,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: silvestar.codes
+  url: https://www.silvestar.codes/
+  method: mediaquery
+  last_checked: 2024-02-23
