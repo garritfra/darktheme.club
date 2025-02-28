@@ -423,6 +423,11 @@
   method: darkonly
   last_checked: 2024-07-13
 
+- domain: leouieda.com
+  url: https://www.leouieda.com/
+  method: darkonly
+  last_checked: 2025-02-28
+
 - domain: libre.town
   url: https://libre.town/
   method: darkonly
