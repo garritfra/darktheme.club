@@ -673,16 +673,16 @@
   method: mediaquery
   last_checked: 2024-04-28
 
+- domain: w3teal.is-a.dev
+  url: https://w3teal.is-a.dev/
+  method: mediaquery
+  last_checked: 2025-03-07
+
 - domain: watch3r.app
   url: https://watch3r.app/
   method: darkonly
   last_checked: 2022-07-20
 
-- domain: w3teal.is-a.dev
-  url: https://w3teal.is-a.dev/
-  method: mediaquery
-  last_checked: 2025-03-07
-  
 - domain: whoisyoges.eu.org
   url: https://whoisyoges.eu.org/
   method: darkonly
