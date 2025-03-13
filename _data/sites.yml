@@ -697,3 +697,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: jamesg.blog
+  url: https://jamesg.blog/
+  method: mediaquery
+  last_checked: 2025-03-12
