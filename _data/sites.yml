@@ -83,11 +83,6 @@
   method: colorscheme
   last_checked: 2024-11-19
 
-- domain: blog.leenucks.xyz
-  url: https://blog.leenucks.xyz/
-  method: darkonly
-  last_checked: 2024-11-14
-
 - domain: blog.madelinepritchard.net
   url: https://blog.madelinepritchard.net/
   method: mediaquery
