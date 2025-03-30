@@ -573,6 +573,11 @@
   method: javascript
   last_checked: 2023-03-01
 
+- domain: shockbs.pro
+  url: https://shockbs.pro/
+  method: javascript
+  last_checked: 2025-03-29
+
 - domain: simonesilvestroni.com
   url: https://simonesilvestroni.com/
   method: mediaquery
