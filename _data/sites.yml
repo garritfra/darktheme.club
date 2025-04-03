@@ -143,10 +143,10 @@
   method: darkonly
   last_checked: 2023-01-07
 
-- domain: cmc.pub
-  url: https://cmc.pub/
+- domain: cleberg.net
+  url: https://cleberg.net/
   method: mediaquery
-  last_checked: 2025-03-12
+  last_checked: 2025-04-02
 
 - domain: codeberg.org
   url: https://codeberg.org/
