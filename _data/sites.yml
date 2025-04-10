@@ -493,6 +493,11 @@
   method: mediaquery
   last_checked: 2023-11-19
 
+- domain: ozcanoguz.com.tr
+  url: https://ozcanoguz.com.tr/
+  method: darkonly
+  last_checked: 2025-04-10
+
 - domain: petercammeraat.net
   url: https://petercammeraat.net/
   method: mediaquery
