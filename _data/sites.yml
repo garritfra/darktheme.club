@@ -717,3 +717,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+  
+- domain: tombrandis.uk
+  url: http://tombrandis.uk/
+  method: mediaquery
+  last_checked: 2025-04-13
