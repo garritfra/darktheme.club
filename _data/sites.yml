@@ -498,6 +498,11 @@
   method: mediaquery
   last_checked: 2022-10-23
 
+- domain: nolove.neocities.org
+  url: https://nolove.neocities.org
+  method: darkonly
+  last_checked: 2025-04-18
+
 - domain: orbitalmartian.codeberg.page
   url: https://orbitalmartian.codeberg.page/
   method: mediaquery
@@ -722,8 +727,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: nolove.neocities.org  
-  url: https://nolove.neocities.org
-  method: darkonly
-  last_checked: 2025-04-18
