@@ -723,7 +723,7 @@
   method: javascript
   last_checked: 2024-02-27
 
-  - domain: neocities.org  
+- domain: neocities.org  
   url: nolove.neocities.org
   method: darkonly
   last_checked: 2024-03-13
