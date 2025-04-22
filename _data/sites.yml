@@ -3,7 +3,7 @@
   method: mediaquery
   last_checked: 2024-03-30
 
-  - domain: orangc.net
+- domain: orangc.net
   url: http://orangc.net/
   method: colorscheme
   last_checked: 2025-04-20
