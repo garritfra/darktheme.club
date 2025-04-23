@@ -3,11 +3,6 @@
   method: mediaquery
   last_checked: 2024-03-30
 
-- domain: orangc.net
-  url: http://orangc.net/
-  method: colorscheme
-  last_checked: 2025-04-20
-
 - domain: 512kb.club
   url: https://512kb.club/
   method: mediaquery
@@ -507,6 +502,11 @@
   url: https://nolove.neocities.org
   method: darkonly
   last_checked: 2025-04-18
+
+- domain: orangc.net
+  url: http://orangc.net/
+  method: colorscheme
+  last_checked: 2025-04-20
 
 - domain: orbitalmartian.codeberg.page
   url: https://orbitalmartian.codeberg.page/
