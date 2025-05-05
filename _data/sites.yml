@@ -732,3 +732,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: dospuntostr.es
+  url: http://dospuntostr.es/e/
+  method: javascript
+  last_checked: 2025-05-05
