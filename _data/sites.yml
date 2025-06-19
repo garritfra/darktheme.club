@@ -737,3 +737,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: roguna.xyz
+	url: https://roguna.xyz
+	method: mediaquery
+	last_checked: 2025-06-19
