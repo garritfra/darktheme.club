@@ -1,3 +1,8 @@
+- domain: joshua.seigler.net
+  url: https://joshua.seigler.net/
+  method: mediaquery
+  last_checked: 2025-06-20
+  
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
