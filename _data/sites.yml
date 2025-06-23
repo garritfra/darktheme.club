@@ -262,6 +262,16 @@
   url: https://frills.dev/
   method: mediaquery
   last_checked: 2024-03-27
+  
+- domain: futureofthe.tech
+  url: https://futureofthe.tech
+  method: opt-in
+  last_checked: 2025-06-19
+
+- domain: futureofthe.world
+  url: https://futureofthe.world
+  method: darkonly
+  last_checked: 2025-06-19
 
 - domain: gagor.pro
   url: https://gagor.pro/
