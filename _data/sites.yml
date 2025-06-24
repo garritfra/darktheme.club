@@ -583,6 +583,11 @@
   method: mediaquery
   last_checked: 2022-07-24
 
+- domain: roguna.xyz
+  url: https://roguna.xyz
+  method: mediaquery
+  last_checked: 2025-06-19
+
 - domain: rohandebsarkar.github.io
   url: https://rohandebsarkar.github.io/
   method: mediaquery
@@ -752,8 +757,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: roguna.xyz
-  url: https://roguna.xyz
-  method: mediaquery
-  last_checked: 2025-06-19
