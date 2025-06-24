@@ -754,41 +754,41 @@
   last_checked: 2024-02-27
 
 - domain: douxx.blog
-url: https://douxx.blog/
-method: darkonly
-last_checked: 2025-06-24
+  url: https://douxx.blog/
+  method: darkonly
+  last_checked: 2025-06-24
 
 - domain: douxx.tech
-url: https://douxx.tech/
-method: darkonly
-last_checked: 2025-06-24
+  url: https://douxx.tech/
+  method: darkonly
+  last_checked: 2025-06-24
 
 - domain: dpip.lol
-url: https://dpip.lol/
-method: darkonly
-last_checked: 2025-06-24
+  url: https://dpip.lol/
+  method: darkonly
+  last_checked: 2025-06-24
 
 - domain: getan.email
-url: https://getan.email/
-method: darkonly
-last_checked: 2025-06-24
+  url: https://getan.email/
+  method: darkonly
+  last_checked: 2025-06-24
 
 - domain: noskid.today
-url: https://noskid.today/
-method: darkonly
-last_checked: 2025-06-24
+  url: https://noskid.today/
+  method: darkonly
+  last_checked: 2025-06-24
 
 - domain: theserver.life
-url: https://theserver.life/
-method: darkonly
-last_checked: 2025-06-24
+  url: https://theserver.life/
+  method: darkonly
+  last_checked: 2025-06-24
 
 - domain: urltoapp.xyz
-url: https://urltoapp.xyz/
-method: javascript
-last_checked: 2025-06-24
+  url: https://urltoapp.xyz/
+  method: javascript
+  last_checked: 2025-06-24
 
 - domain: writestorm.art
-url: https://writestorm.art/
-method: darkonly
-last_checked: 2025-06-24
+  url: https://writestorm.art/
+  method: darkonly
+  last_checked: 2025-06-24
