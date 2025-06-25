@@ -203,6 +203,21 @@
   method: javascript
   last_checked: 2025-05-05
 
+- domain: douxx.blog
+  url: https://douxx.blog/
+  method: darkonly
+  last_checked: 2025-06-24
+
+- domain: douxx.tech
+  url: https://douxx.tech/
+  method: darkonly
+  last_checked: 2025-06-24
+
+- domain: dpip.lol
+  url: https://dpip.lol/
+  method: darkonly
+  last_checked: 2025-06-24
+
 - domain: drewsh.com
   url: https://drewsh.com/
   method: mediaquery
@@ -287,6 +302,11 @@
   url: https://garud.netlify.app/
   method: darkonly
   last_checked: 2024-02-10
+
+- domain: getan.email
+  url: https://getan.email/
+  method: darkonly
+  last_checked: 2025-06-24
 
 - domain: github.com
   url: https://github.com/
@@ -523,6 +543,11 @@
   method: darkonly
   last_checked: 2025-04-18
 
+- domain: noskid.today
+  url: https://noskid.today/
+  method: darkonly
+  last_checked: 2025-06-24
+
 - domain: orangc.net
   url: http://orangc.net/
   method: colorscheme
@@ -678,6 +703,11 @@
   method: mediaquery
   last_checked: 2023-04-02
 
+- domain: theserver.life
+  url: https://theserver.life/
+  method: darkonly
+  last_checked: 2025-06-24
+
 - domain: thomas.me
   url: https://thomas.me/
   method: mediaquery
@@ -712,6 +742,11 @@
   url: https://uiduck.com/
   method: darkonly
   last_checked: 2024-11-15
+
+- domain: urltoapp.xyz
+  url: https://urltoapp.xyz/
+  method: javascript
+  last_checked: 2025-06-24
 
 - domain: vale.rocks
   url: https://vale.rocks/
@@ -748,6 +783,11 @@
   method: darkonly
   last_checked: 2022-12-12
 
+- domain: writestorm.art
+  url: https://writestorm.art/
+  method: darkonly
+  last_checked: 2025-06-24
+
 - domain: zapisnik.skladka.net
   url: https://zapisnik.skladka.net/
   method: mediaquery
@@ -757,43 +797,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: douxx.blog
-  url: https://douxx.blog/
-  method: darkonly
-  last_checked: 2025-06-24
-
-- domain: douxx.tech
-  url: https://douxx.tech/
-  method: darkonly
-  last_checked: 2025-06-24
-
-- domain: dpip.lol
-  url: https://dpip.lol/
-  method: darkonly
-  last_checked: 2025-06-24
-
-- domain: getan.email
-  url: https://getan.email/
-  method: darkonly
-  last_checked: 2025-06-24
-
-- domain: noskid.today
-  url: https://noskid.today/
-  method: darkonly
-  last_checked: 2025-06-24
-
-- domain: theserver.life
-  url: https://theserver.life/
-  method: darkonly
-  last_checked: 2025-06-24
-
-- domain: urltoapp.xyz
-  url: https://urltoapp.xyz/
-  method: javascript
-  last_checked: 2025-06-24
-
-- domain: writestorm.art
-  url: https://writestorm.art/
-  method: darkonly
-  last_checked: 2025-06-24
