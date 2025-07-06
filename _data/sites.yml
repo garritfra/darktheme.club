@@ -33,6 +33,11 @@
   method: mediaquery
   last_checked: 2023-05-26
 
+- domain: alexzeecomedy.com
+  url: https://alexzeecomedy.com/
+  method: darkonly
+  last_checked: 2025-07-06
+
 - domain: alperor.us
   url: https://alperor.us/
   method: darkonly
@@ -797,8 +802,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: alexzeecomedy.com
-  url: https://alexzeecomedy.com/
-  method: darkonly
-  last_checked: 2025-07-06
