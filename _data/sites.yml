@@ -218,11 +218,6 @@
   method: darkonly
   last_checked: 2025-06-24
 
-- domain: dpip.lol
-  url: https://dpip.lol/
-  method: darkonly
-  last_checked: 2025-06-24
-
 - domain: drewsh.com
   url: https://drewsh.com/
   method: mediaquery
