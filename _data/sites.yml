@@ -568,6 +568,11 @@
   method: mediaquery
   last_checked: 2024-01-16
 
+- domain: peterspath.net
+  url: https://peterspath.net/
+  method: darkonly
+  last_checked: 2025-08-07
+
 - domain: phishwarn.codeberg.page
   url: https://phishwarn.codeberg.page/
   method: mediaquery
