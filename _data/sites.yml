@@ -403,10 +403,10 @@
   method: mediaquery
   last_checked: 2023-05-06
 
-- domain: joelchrono12.xyz
-  url: https://joelchrono12.xyz
-  method: darkonly
-  last_checked: 2023-01-04
+- domain: joelchrono.xyz
+  url: https://joelchrono.xyz
+  method: mediaquery
+  last_checked: 2025-08-07
 
 - domain: joshua.seigler.net
   url: https://joshua.seigler.net/
