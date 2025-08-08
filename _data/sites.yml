@@ -405,7 +405,7 @@
 
 - domain: joelchrono.xyz
   url: https://joelchrono.xyz
-  method: darkonly
+  method: mediaquery
   last_checked: 2025-08-07
 
 - domain: joshua.seigler.net
