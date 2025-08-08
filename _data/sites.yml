@@ -1,3 +1,8 @@
+- domain: thecrow.uk
+  url: https://thecrow.uk/
+  method: darkonly
+  last_checked: 2025-08-03
+
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
