@@ -812,3 +812,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: jann.stute.dev
+  url: https://jann.stute.dev/
+  method: mediaquery
+  last_checked: 2025-09-05
