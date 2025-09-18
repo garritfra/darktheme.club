@@ -569,7 +569,7 @@
   last_checked: 2025-04-10
 
 - domain: perrotta.dev
-  url: http://perrotta.dev/ (Make sure you keep the trailing slash)
+  url: http://perrotta.dev/
   method: mediaquery
   last_checked: 2025-09-18
 
