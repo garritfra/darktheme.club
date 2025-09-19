@@ -568,6 +568,11 @@
   method: darkonly
   last_checked: 2025-04-10
 
+- domain: perrotta.dev
+  url: https://perrotta.dev/
+  method: mediaquery
+  last_checked: 2025-09-18
+
 - domain: petercammeraat.net
   url: https://petercammeraat.net/
   method: mediaquery
