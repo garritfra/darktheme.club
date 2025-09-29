@@ -3,7 +3,7 @@
   method: mediaquery
   last_checked: 2025-09-29
   
-  - domain: 250kb.club
+- domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
   last_checked: 2024-03-30
