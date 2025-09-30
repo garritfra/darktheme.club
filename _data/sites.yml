@@ -1,3 +1,8 @@
+- domain: burgeonlab.com
+  url: https://www.burgeonlab.com/
+  method: mediaquery
+  last_checked: 2025-09-29
+  
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
