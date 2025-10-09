@@ -1,8 +1,3 @@
-- domain: kylereddoch.me
-  url: https://www.kylereddoch.me/
-  method: colorsheme
-  last_checked: 2025-10-09
-
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
@@ -472,6 +467,11 @@
   url: https://ksbrooksjr.com/
   method: mediaquery
   last_checked: 2023-11-24
+
+- domain: kylereddoch.me
+  url: https://www.kylereddoch.me/
+  method: colorsheme
+  last_checked: 2025-10-09
 
 - domain: lai.nz
   url: https://lai.nz
