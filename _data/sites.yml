@@ -1,3 +1,8 @@
+- domain: blog.yaslam.org
+  url: https://blog.yaslam.org
+  method: darkonly
+  last_checked: 2025-11-11
+
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
