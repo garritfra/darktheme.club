@@ -1,8 +1,3 @@
-- domain: blog.yaslam.org
-  url: https://blog.yaslam.org
-  method: darkonly
-  last_checked: 2025-10-11
-
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
@@ -107,6 +102,11 @@
   url: https://blog.vinfall.com/
   method: darkonly
   last_checked: 2023-10-14
+
+- domain: blog.yaslam.org
+  url: https://blog.yaslam.org
+  method: darkonly
+  last_checked: 2025-10-11
 
 - domain: brentter.com
   url: https://brentter.com/
