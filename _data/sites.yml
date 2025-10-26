@@ -698,6 +698,11 @@
   method: mediaquery
   last_checked: 2022-04-16
 
+- domain: smalltictactoe.dpdns.org
+  url: https://smalltictactoe.dpdns.org/
+  method: darkonly
+  last_checked: 2025-10-26
+
 - domain: storydragon.nl
   url: https://storydragon.nl
   method: mediaquery
