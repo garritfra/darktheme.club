@@ -847,3 +847,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: lumpyspaghetti.space
+  url: https://lumpyspaghetti.space/
+  method: unknown
+  last_checked: 2025-11-10
