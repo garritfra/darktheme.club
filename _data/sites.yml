@@ -53,11 +53,6 @@
   method: javascript
   last_checked: 2023-05-18
 
-- domain: bbbhltz.codeberg.page
-  url: https://bbbhltz.codeberg.page/
-  method: mediaquery
-  last_checked: 2023-08-30
-
 - domain: bernsteinbear.com
   url: https://bernsteinbear.com/
   method: mediaquery
@@ -107,6 +102,11 @@
   url: https://blog.yaslam.org
   method: javascript
   last_checked: 2025-10-27
+
+- domain: bobbyhiltz.com
+  url: https://bobbyhiltz.com/
+  method: colorscheme
+  last_checked: 2025-11-23
 
 - domain: brentter.com
   url: https://brentter.com/
