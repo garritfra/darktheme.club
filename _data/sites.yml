@@ -857,3 +857,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: kojordan.com
+  url: https://www.kojordan.com/
+  method: mediaquery
+  last_checked: 2025-11-26
