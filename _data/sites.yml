@@ -473,6 +473,11 @@
   method: darkonly
   last_checked: 2024-03-30
 
+- domain: kojordan.com
+  url: https://www.kojordan.com/
+  method: mediaquery
+  last_checked: 2025-11-26
+
 - domain: konstantintutsch.com
   url: https://konstantintutsch.com/
   method: mediaquery
@@ -857,8 +862,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: kojordan.com
-  url: https://www.kojordan.com/
-  method: mediaquery
-  last_checked: 2025-11-26
