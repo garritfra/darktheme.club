@@ -28,6 +28,11 @@
   method: javascript
   last_checked: 2022-07-19
 
+- domain: alecsargent.codeberg.page
+  url: https://alecsargent.codeberg.page
+  method: mediaquery
+  last_checked: 2025-12-15
+
 - domain: alessandrocuzzocrea.com
   url: https://alessandrocuzzocrea.com
   method: mediaquery
@@ -867,8 +872,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: alecsargent.codeberg.page
-  url: https://alecsargent.codeberg.page
-  method: mediaquery
-  last_checked: 2025-12-15
