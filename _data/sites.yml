@@ -798,6 +798,11 @@
   method: mediaquery
   last_checked: 2025-04-13
 
+- domain: topfour.net
+  url: https://topfour.net/
+  method: mediaquery
+  last_checked: 2025-12-21
+
 - domain: traeblain.com
   url: https://traeblain.com/
   method: mediaquery
