@@ -873,6 +873,11 @@
   method: mediaquery
   last_checked: 2025-07-31
 
+- domain: zacharykai.net
+  url: https://zacharykai.net/
+  method: mediaquery
+  last_checked: 2026-01-06
+
 - domain: zapisnik.skladka.net
   url: https://zapisnik.skladka.net/
   method: mediaquery
