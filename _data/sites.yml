@@ -373,6 +373,11 @@
   method: mediaquery
   last_checked: 2022-07-17
 
+- domain: ikels.org
+  url: https://ikels.org/
+  method: mediaquery
+  last_checked: 2026-01-14
+
 - domain: ineedmore.coffee
   url: https://ineedmore.coffee/
   method: mediaquery
@@ -437,11 +442,6 @@
   url: https://jundi.web.id
   method: unknown
   last_checked: 2024-08-31
-
-- domain: sujayk.me
-  url: https://sujayk.me/
-  method: javascript
-  last_checked: 2026-01-14
 
 - domain: kidl.at
   url: https://kidl.at/
@@ -703,6 +703,11 @@
   method: darkonly
   last_checked: 2024-03-19
 
+- domain: sujayk.me
+  url: https://sujayk.me/
+  method: javascript
+  last_checked: 2026-01-14
+
 - domain: tauri.app
   url: https://tauri.app/
   method: javascript
@@ -752,11 +757,6 @@
   url: https://til.pm
   method: javascript
   last_checked: 2023-02-24
-
-- domain: ikels.org
-  url: https://ikels.org/
-  method: mediaquery
-  last_checked: 2026-01-14
 
 - domain: tombrandis.uk
   url: http://tombrandis.uk/
