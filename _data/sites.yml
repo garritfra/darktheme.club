@@ -43,11 +43,6 @@
   method: mediaquery
   last_checked: 2025-07-16
 
-- domain: alperor.us
-  url: https://alperor.us/
-  method: darkonly
-  last_checked: 2023-02-27
-
 - domain: asnine.me
   url: https://asnine.me/
   method: mediaquery
@@ -157,11 +152,6 @@
   url: https://castorisdead.xyz
   method: darkonly
   last_checked: 2022-12-21
-
-- domain: chino.is-a.dev
-  url: https://chino.is-a.dev/
-  method: darkonly
-  last_checked: 2023-02-01
 
 - domain: claytonerrington.com
   url: https://claytonerrington.com/
@@ -313,11 +303,6 @@
   method: opt-in
   last_checked: 2025-06-19
 
-- domain: futureofthe.world
-  url: https://futureofthe.world
-  method: darkonly
-  last_checked: 2025-06-19
-
 - domain: gagor.pro
   url: https://gagor.pro/
   method: mediaquery
@@ -367,11 +352,6 @@
   url: https://hen.ee/
   method: javascript
   last_checked: 2023-07-04
-
-- domain: hex.moonwith.com
-  url: http://hex.moonwith.com/
-  method: javascript
-  last_checked: 2023-11-27
 
 - domain: home.hedy.dev
   url: https://home.hedy.dev/
@@ -438,11 +418,6 @@
   method: mediaquery
   last_checked: 2022-07-16
 
-- domain: jlo64.github.io
-  url: https://jlo64.github.io/
-  method: mediaquery
-  last_checked: 2023-05-06
-
 - domain: joelchrono.xyz
   url: https://joelchrono.xyz
   method: mediaquery
@@ -463,10 +438,10 @@
   method: unknown
   last_checked: 2024-08-31
 
-- domain: justsujay.github.io
-  url: https://justsujay.github.io/
+- domain: sujayk.me
+  url: https://sujayk.me/
   method: javascript
-  last_checked: 2024-02-24
+  last_checked: 2026-01-14
 
 - domain: kidl.at
   url: https://kidl.at/
@@ -532,11 +507,6 @@
   url: https://www.lkhrs.com/
   method: mediaquery
   last_checked: 2022-07-17
-
-- domain: lukron.xyz
-  url: https://lukron.xyz/
-  method: javascript
-  last_checked: 2024-08-30
 
 - domain: lumpyspaghetti.space
   url: https://lumpyspaghetti.space/
@@ -673,15 +643,10 @@
   method: mediaquery
   last_checked: 2022-07-24
 
-- domain: roguna.xyz
-  url: https://roguna.xyz
+- domain: roguna.com
+  url: https://roguna.com
   method: mediaquery
-  last_checked: 2025-06-19
-
-- domain: rohandebsarkar.github.io
-  url: https://rohandebsarkar.github.io/
-  method: mediaquery
-  last_checked: 2022-10-30
+  last_checked: 2026-01-14
 
 - domain: scientiac.space
   url: https://scientiac.space/
@@ -722,11 +687,6 @@
   url: https://simonesilvestroni.com/
   method: mediaquery
   last_checked: 2023-04-17
-
-- domain: slashdev.space
-  url: https://slashdev.space/
-  method: mediaquery
-  last_checked: 2022-04-16
 
 - domain: smalltictactoe.dpdns.org
   url: https://smalltictactoe.dpdns.org/
@@ -793,10 +753,10 @@
   method: javascript
   last_checked: 2023-02-24
 
-- domain: timikels.com
-  url: https://timikels.com/blog/
+- domain: ikels.org
+  url: https://ikels.org/
   method: mediaquery
-  last_checked: 2024-03-08
+  last_checked: 2026-01-14
 
 - domain: tombrandis.uk
   url: http://tombrandis.uk/
