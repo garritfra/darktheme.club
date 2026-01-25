@@ -48,6 +48,11 @@
   method: mediaquery
   last_checked: 2024-08-23
 
+- domain: austinhuang.me
+  url: https://austinhuang.me
+  method: mediaquery
+  last_checked: 2025-01-24
+
 - domain: basementcommunity.com
   url: https://basementcommunity.com
   method: javascript
