@@ -303,6 +303,11 @@
   method: mediaquery
   last_checked: 2022-07-21
 
+- domain: fpo.fyi
+  url: https://fpo.fyi
+  method: colorscheme
+  last_checked: 2022-07-21
+
 - domain: frills.dev
   url: https://frills.dev/
   method: mediaquery
