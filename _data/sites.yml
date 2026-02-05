@@ -558,6 +558,11 @@
   method: darkonly
   last_checked: 2024-07-17
 
+- domain: nandash.com
+  url: https://nandash.com/
+  method: darkonly
+  last_checked: 2026-02-04
+
 - domain: nali.org
   url: https://nali.org/
   method: javascript
@@ -688,10 +693,10 @@
   method: javascript
   last_checked: 2023-03-01
 
-- domain: shockbs.pro
-  url: https://shockbs.pro/
+- domain: shockbs.com
+  url: https://shockbs.com/
   method: javascript
-  last_checked: 2025-03-29
+  last_checked: 2026-02-04
 
 - domain: simonesilvestroni.com
   url: https://simonesilvestroni.com/
