@@ -862,3 +862,18 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: lab.lunaseeker.com
+  url: https://lab.lunaseeker.com/
+  method: mediaquery
+  last_checked: 2026-01-06
+
+- domain: lunaseeker.com
+  url: https://lunaseeker.com/
+  method: mediaquery
+  last_checked: 2026-01-06
+
+- domain: roadlessread.com
+  url: https://roadlessread.com/
+  method: mediaquery
+  last_checked: 2026-01-06
