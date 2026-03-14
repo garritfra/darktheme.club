@@ -862,3 +862,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: not-a-catgirl.online
+  url: https://not-a-catgirl.online/
+  method: darkonly
+  last_checked: 2026-03-14
