@@ -713,6 +713,11 @@
   method: darkonly
   last_checked: 2025-10-26
 
+- domain: stevebarnes.org
+  url: https://stevebarnes.org
+  method: darkonly
+  last_checked: 2026-03-16
+
 - domain: storydragon.nl
   url: https://storydragon.nl
   method: mediaquery
