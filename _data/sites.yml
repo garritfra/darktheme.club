@@ -733,6 +733,11 @@
   method: javascript
   last_checked: 2026-01-14
 
+- domain: syaffers.xyz
+  url: https://syaffers.xyz/
+  method: mediaquery
+  last_checked: 2026-03-19
+
 - domain: tauri.app
   url: https://tauri.app/
   method: javascript
@@ -872,8 +877,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: syaffers.xyz
-  url: https://syaffers.xyz/
-  method: mediaquery
-  last_checked: 2026-03-19
