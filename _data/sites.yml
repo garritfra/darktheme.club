@@ -309,7 +309,7 @@
   last_checked: 2024-03-27
 
 - domain: fullmetalbrackets.com
-  url: https://fullmetalbrackets.com/ (Make sure you keep the trailing slash)
+  url: https://fullmetalbrackets.com/
   method: mediaquery
   last_checked: 2026-03-20
 
