@@ -2,18 +2,30 @@
 
 {% if methods == 'colorscheme' %}
   {% assign method = "ColorScheme" %}
+  {% assign method_anchor = "method-colorscheme" %}
+  {% assign method_tip = "Uses the CSS color-scheme property to support dark mode" %}
 {% elsif methods == 'mediaquery' %}
   {% assign method = "MediaQuery" %}
+  {% assign method_anchor = "method-mediaquery" %}
+  {% assign method_tip = "Uses the prefers-color-scheme CSS media query to detect dark mode preference" %}
 {% elsif methods == 'javascript' %}
   {% assign method = "JavaScript" %}
+  {% assign method_anchor = "method-javascript" %}
+  {% assign method_tip = "Uses JavaScript to toggle dark mode" %}
 {% elsif methods == 'darkonly' %}
   {% assign method = "DarkOnly" %}
+  {% assign method_anchor = "method-darkonly" %}
+  {% assign method_tip = "This site only has a dark theme" %}
 {% elsif methods == 'opt-in' %}
   {% assign method = "OptIn" %}
+  {% assign method_anchor = "method-opt-in" %}
+  {% assign method_tip = "Users can manually enable dark mode via the site's UI" %}
 {% else %}
   {% assign method = "Unknown" %}
+  {% assign method_anchor = "method-unknown" %}
+  {% assign method_tip = "Dark mode method is unknown" %}
 {% endif %}
 <li>
     <a class="site" target="blank" href="{{ item.url }}">{{ item.domain }}</a>
-    <span class="method">{{ method }}</span>
+    <a class="method" href="/faq#{{ method_anchor }}" title="{{ method_tip }}">{{ method }}</a>
 </li>
