@@ -1,0 +1,37 @@
+<details>
+    <summary>What do the methods mean?</summary>
+    <p>
+        Each site in the list shows a <b>method</b> label that describes how
+        it implements dark mode support. Here's what each one means:
+    </p>
+
+    <ul>
+        <li id="method-mediaquery">
+            <b>MediaQuery</b> — Uses the
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme">prefers-color-scheme</a>
+            CSS media query to automatically detect the user's dark mode
+            preference. This is the recommended approach.
+        </li>
+        <li id="method-colorscheme">
+            <b>ColorScheme</b> — Uses the
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme">color-scheme</a>
+            CSS property to declare support for dark mode.
+        </li>
+        <li id="method-javascript">
+            <b>JavaScript</b> — Uses JavaScript to toggle between light and
+            dark themes.
+        </li>
+        <li id="method-darkonly">
+            <b>DarkOnly</b> — The site only has a dark theme. There is no
+            light mode.
+        </li>
+        <li id="method-opt-in">
+            <b>OptIn</b> — Users can manually enable dark mode through the
+            site's UI.
+        </li>
+        <li id="method-unknown">
+            <b>Unknown</b> — The method used to implement dark mode hasn't
+            been determined.
+        </li>
+    </ul>
+</details>
