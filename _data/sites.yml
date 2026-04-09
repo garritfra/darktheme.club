@@ -882,3 +882,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: epimel.es
+  url: https://epimel.es/
+  method: mediaquery
+  last_checked: 2026-04-09
