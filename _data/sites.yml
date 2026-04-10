@@ -273,6 +273,11 @@
   method: mediaquery
   last_checked: 2022-07-24
 
+- domain: epimel.es
+  url: https://epimel.es/
+  method: mediaquery
+  last_checked: 2026-04-09
+
 - domain: eternodevir.com
   url: https://eternodevir.com/
   method: mediaquery
@@ -882,8 +887,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: epimel.es
-  url: https://epimel.es/
-  method: mediaquery
-  last_checked: 2026-04-09
