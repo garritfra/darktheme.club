@@ -887,3 +887,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: puppynet.work
+  url: https://puppynet.work/
+  method: darkonly
+  last_checked: 2026-04-16
