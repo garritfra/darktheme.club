@@ -648,6 +648,11 @@
   method: mediaquery
   last_checked: 2022-07-18
 
+- domain: puppynet.work
+  url: https://puppynet.work/
+  method: darkonly
+  last_checked: 2026-04-16
+
 - domain: r74n.com
   url: https://r74n.com/
   method: darkonly
@@ -887,8 +892,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: puppynet.work
-  url: https://puppynet.work/
-  method: darkonly
-  last_checked: 2026-04-16
