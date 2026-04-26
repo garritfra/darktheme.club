@@ -892,3 +892,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: debentorba.neocities.org
+  url: https://debentorba.neocities.org/
+  method: DarkOnly
+  last_checked: 2026-04-26
