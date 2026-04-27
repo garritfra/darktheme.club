@@ -895,5 +895,5 @@
 
 - domain: debentorba.neocities.org
   url: https://debentorba.neocities.org/
-  method: DarkOnly
+  method: darkonly
   last_checked: 2026-04-26
