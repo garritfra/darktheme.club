@@ -753,6 +753,11 @@
   method: javascript
   last_checked: 2026-01-14
 
+- domain: sustysubs.net
+  url: https://www.sustysubs.net
+  method: colorscheme
+  last_checked: 2026-05-10
+
 - domain: syaffers.xyz
   url: https://syaffers.xyz/
   method: mediaquery
