@@ -438,15 +438,15 @@
   method: mediaquery
   last_checked: 2025-03-12
 
-- domain: jann.stute.dev
-  url: https://jann.stute.dev/
-  method: mediaquery
-  last_checked: 2025-09-05
-
 - domain: janlukas.blog
   url: https://janlukas.blog/
   method: mediaquery
   last_checked: 2026-05-11
+
+- domain: jann.stute.dev
+  url: https://jann.stute.dev/
+  method: mediaquery
+  last_checked: 2025-09-05
 
 - domain: joelchrono.xyz
   url: https://joelchrono.xyz
