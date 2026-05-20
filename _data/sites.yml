@@ -653,6 +653,11 @@
   method: mediaquery
   last_checked: 2025-02-15
 
+- domain: pnppl.cc
+  url: http://pnppl.cc/
+  method: mediaquery
+  last_checked: 2026-05-20
+
 - domain: pragmaticpineapple.com
   url: https://pragmaticpineapple.com/
   method: mediaquery
