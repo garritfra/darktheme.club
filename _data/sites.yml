@@ -888,15 +888,15 @@
   method: darkonly
   last_checked: 2025-06-24
 
+- domain: xstaticprocess.dev
+  url: http://xstaticprocess.dev/
+  method: javascript
+  last_checked: 2026-05-25
+
 - domain: yellowduckyapps.com
   url: https://yellowduckyapps.com/
   method: mediaquery
   last_checked: 2025-07-31
-
-- domain: xstaticprocess.dev
-  url: http://xstaticprocess.dev/ 
-  method: javascript
-  last_checked: 2026-05-25
 
 - domain: zacharykai.net
   url: https://zacharykai.net/
