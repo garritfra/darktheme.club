@@ -538,6 +538,11 @@
   method: mediaquery
   last_checked: 2022-07-17
 
+- domain: loorjoal.netlify.app
+  url: https://loorjoal.netlify.app/
+  method: mediaquery
+  last_checked: 2026-06-12
+
 - domain: lumpyspaghetti.space
   url: https://lumpyspaghetti.space/
   method: unknown
@@ -912,9 +917,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: loorjoal.netlify.app
-  url: https://loorjoal.netlify.app/
-  method: mediaquery
-  last_checked: 2026-06-12
-  
