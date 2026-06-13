@@ -912,3 +912,9 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: loorjoal.netlify.app
+  url: https://loorjoal.netlify.app/
+  method: mediaquery
+  last_checked: 2026-06-12
+  
