@@ -917,3 +917,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: openweird.com
+  url: https://openweird.com/
+  method: darkonly
+  last_checked: 2026-06-22
