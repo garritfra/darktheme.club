@@ -1,3 +1,8 @@
+- domain: 1clicklinux.org
+  url: https://1clicklinux.org/
+  method: mediaquery
+  last_checked: 2026-06-19
+
 - domain: 250kb.club
   url: https://250kb.club/
   method: mediaquery
