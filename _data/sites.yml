@@ -623,6 +623,11 @@
   method: darkonly
   last_checked: 2026-03-14
 
+- domain: openweird.com
+  url: https://openweird.com/
+  method: darkonly
+  last_checked: 2026-06-22
+
 - domain: orangc.net
   url: http://orangc.net/
   method: colorscheme
@@ -922,8 +927,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: openweird.com
-  url: https://openweird.com/
-  method: darkonly
-  last_checked: 2026-06-22
