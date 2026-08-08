@@ -213,6 +213,11 @@
   method: mediaquery
   last_checked: 2024-07-13
 
+- domain: cshubh.com
+  url: https://cshubh.com/
+  method: mediaquery
+  last_checked: 2026-08-09
+
 - domain: darekkay.com
   url: https://darekkay.com/
   method: javascript
