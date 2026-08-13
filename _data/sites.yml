@@ -1,3 +1,8 @@
+- domain: connectedbypuzzles.com
+  url: https://connectedbypuzzles.com/
+  method: javascript
+  last_checked: 2026-08-13
+  
 - domain: 1clicklinux.org
   url: https://1clicklinux.org/
   method: mediaquery
