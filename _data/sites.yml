@@ -423,6 +423,11 @@
   method: mediaquery
   last_checked: 2022-07-17
 
+- domain: insecure.club
+  url: http://insecure.club/
+  method: mediaquery
+  last_checked: 2026-08-15
+
 - domain: istheutesport.hopto.org
   url: https://istheutesport.hopto.org/
   method: darkonly
