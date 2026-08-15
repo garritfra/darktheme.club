@@ -1,8 +1,3 @@
-- domain: connectedbypuzzles.com
-  url: https://connectedbypuzzles.com/
-  method: javascript
-  last_checked: 2026-08-13
-  
 - domain: 1clicklinux.org
   url: https://1clicklinux.org/
   method: mediaquery
@@ -202,6 +197,11 @@
   url: https://colincogle.name/
   method: mediaquery
   last_checked: 2023-05-19
+
+- domain: connectedbypuzzles.com
+  url: https://connectedbypuzzles.com/
+  method: javascript
+  last_checked: 2026-08-13
 
 - domain: cosmicqbit.dev
   url: https://cosmicqbit.dev
