@@ -265,7 +265,7 @@
 
 - domain: douxx.blog
   url: https://douxx.blog/
-  method: darkonly
+  method: mediaquery
   last_checked: 2025-06-24
 
 - domain: douxx.tech
