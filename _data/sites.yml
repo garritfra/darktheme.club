@@ -937,3 +937,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: arkai.win
+  url: https://arkai.win/
+  method: darkonly
+  last_checked: 2026-09-17
