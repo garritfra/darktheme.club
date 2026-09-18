@@ -48,6 +48,11 @@
   method: mediaquery
   last_checked: 2025-07-16
 
+- domain: arkai.win
+  url: https://arkai.win/
+  method: darkonly
+  last_checked: 2026-09-17
+
 - domain: asnine.me
   url: https://asnine.me/
   method: mediaquery
@@ -937,8 +942,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: arkai.win
-  url: https://arkai.win/
-  method: darkonly
-  last_checked: 2026-09-17
