@@ -942,3 +942,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: mjj.io
+  url: https://mjj.io/
+  method: colorscheme
+  last_checked: 2026-09-16
