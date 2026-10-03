@@ -947,3 +947,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: runboli.com
+  url: https://runboli.com/
+  method: darkonly
+  last_checked: 2026-10-03
