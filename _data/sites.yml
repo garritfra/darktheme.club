@@ -368,11 +368,6 @@
   method: darkonly
   last_checked: 2024-02-10
 
-- domain: getan.email
-  url: https://getan.email/
-  method: darkonly
-  last_checked: 2025-06-24
-
 - domain: github.com
   url: https://github.com/
   method: mediaquery
@@ -843,11 +838,6 @@
   method: mediaquery
   last_checked: 2023-04-02
 
-- domain: theserver.life
-  url: https://theserver.life/
-  method: darkonly
-  last_checked: 2025-06-24
-
 - domain: thomas.me
   url: https://thomas.me/
   method: mediaquery
@@ -917,11 +907,6 @@
   url: https://whoisyoges.eu.org/
   method: darkonly
   last_checked: 2022-12-12
-
-- domain: writestorm.art
-  url: https://writestorm.art/
-  method: darkonly
-  last_checked: 2025-06-24
 
 - domain: xstaticprocess.dev
   url: http://xstaticprocess.dev/
