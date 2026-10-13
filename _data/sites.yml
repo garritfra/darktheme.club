@@ -950,5 +950,5 @@
 
 - domain: jokerm.com
   url: https://jokerm.com/
-  method: opt-in
+  method: darkonly
   last_checked: 2026-10-13
