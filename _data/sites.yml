@@ -53,6 +53,11 @@
   method: darkonly
   last_checked: 2026-09-17
 
+- domain: artificialwatch.com
+  url: https://artificialwatch.com/
+  method: javascript
+  last_checked: 2026-10-19
+
 - domain: asnine.me
   url: https://asnine.me/
   method: mediaquery
@@ -947,8 +952,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: artificialwatch.com
-  url: https://artificialwatch.com/
-  method: javascript
-  last_checked: 2026-10-19
