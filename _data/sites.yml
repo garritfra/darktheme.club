@@ -738,6 +738,11 @@
   method: mediaquery
   last_checked: 2026-01-14
 
+- domain: runboli.com
+  url: https://runboli.com/
+  method: darkonly
+  last_checked: 2026-10-03
+
 - domain: scientiac.space
   url: https://scientiac.space/
   method: javascript
@@ -952,8 +957,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: runboli.com
-  url: https://runboli.com/
-  method: darkonly
-  last_checked: 2026-10-03
