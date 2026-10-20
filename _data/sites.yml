@@ -628,6 +628,11 @@
   method: javascript
   last_checked: 2024-11-02
 
+- domain: nickgeorgeai.com
+  url: https://nickgeorgeai.com/
+  method: javascript
+  last_checked: 2026-10-16
+
 - domain: nih.ar
   url: https://nih.ar/
   method: mediaquery
