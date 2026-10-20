@@ -942,3 +942,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: jokerm.com
+  url: https://jokerm.com/
+  method: darkonly
+  last_checked: 2026-10-13
