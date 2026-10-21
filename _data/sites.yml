@@ -952,3 +952,8 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
+
+- domain: paemuri.com
+  url: https://paemuri.com/
+  method: mediaquery
+  last_checked: 2026-10-20
