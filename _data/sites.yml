@@ -73,6 +73,11 @@
   method: javascript
   last_checked: 2023-05-18
 
+- domain: basvanhaastregt.nl
+  url: https://basvanhaastregt.nl/
+  method: mediaquery
+  last_checked: 2026-10-25
+
 - domain: bernsteinbear.com
   url: https://bernsteinbear.com/
   method: mediaquery
@@ -957,8 +962,3 @@
   url: https://zwbetz.com/
   method: javascript
   last_checked: 2024-02-27
-
-- domain: basvanhaastregt.nl
-  url: https://basvanhaastregt.nl/
-  method: mediaquery
-  last_checked: 2026-10-25
