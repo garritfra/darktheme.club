@@ -493,6 +493,11 @@
   method: darkonly
   last_checked: 2025-06-22
 
+- domain: joshuamorris.info
+  url: https://joshuamorris.info/
+  method: mediaquery
+  last_checked: 2026-10-30
+
 - domain: journeytolunar.com
   url: https://journeytolunar.com/
   method: mediaquery
