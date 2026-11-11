@@ -28,15 +28,15 @@
   method: mediaquery
   last_checked: 2024-01-11
 
-- domain: aiwebsitepipeline.com
-  url: https://aiwebsitepipeline.com/
-  method: darkonly
-  last_checked: 2026-10-26
-
 - domain: aitrack.work
   url: https://aitrack.work/
   method: javascript
   last_checked: 2022-07-19
+
+- domain: aiwebsitepipeline.com
+  url: https://aiwebsitepipeline.com/
+  method: darkonly
+  last_checked: 2026-10-26
 
 - domain: alecsargent.codeberg.page
   url: https://alecsargent.codeberg.page
