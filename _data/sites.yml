@@ -963,6 +963,11 @@
   method: mediaquery
   last_checked: 2025-07-31
 
+- domain: yellowtomato.app
+  url: https://yellowtomato.app/
+  method: mediaquery
+  last_checked: 2026-11-15
+
 - domain: zacharykai.net
   url: https://zacharykai.net/
   method: mediaquery
