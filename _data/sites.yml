@@ -848,6 +848,11 @@
   method: mediaquery
   last_checked: 2026-03-19
 
+- domain: sylvain.dev
+  url: https://www.sylvain.dev/
+  method: mediaquery
+  last_checked: 2026-11-27
+
 - domain: tauri.app
   url: https://tauri.app/
   method: javascript
